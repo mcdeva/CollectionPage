@@ -3,9 +3,14 @@ fetch('data.json')
   .then(data => {
     const employeeList = document.getElementById('employee-list');
     data.employees.forEach(employee => {
-      const li = document.createElement('li');
-      li.textContent = `${employee.name} (${employee.age}) - ${employee.position}`;
-      employeeList.appendChild(li);
+      const div = document.createElement('div');
+      div.classList.add('employee');
+      div.innerHTML = `
+        <img src="${employee.image}" alt="${employee.name}">
+        <h3>${employee.name} (${employee.age})</h3>
+        <p>${employee.position}</p>
+      `;
+      employeeList.appendChild(div);
     });
   })
   .catch(error => console.error(error));

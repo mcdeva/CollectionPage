@@ -1,14 +1,26 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>My Sample Website</title>
-        <link rel="stylesheet" href="styles.css">
-    </head>
-    <body>
-        <h1>Welcome to my website</h1>
-        <p>This is a sample paragraph.</p>
-        <h2>Employee List</h2>
-        <ul id="employee-list"></ul>
-        <script src="app.js"></script>
-    </body>
+  <head>
+    <title>Employee List</title>
+    <style>
+      .employee {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+      }
+      .employee img {
+        width: 50px;
+        height: 50px;
+        margin-right: 10px;
+      }
+      .employee h3 {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Employee List</h1>
+    <div id="employee-list"></div>
+    <script src="app.js"></script>
+  </body>
 </html>
