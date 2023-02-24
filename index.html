@@ -1,26 +1,18 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Employee List</title>
-    <style>
-      .employee {
-        display: flex;
-        align-items: center;
-        margin-bottom: 10px;
-      }
-      .employee img {
-        width: 50px;
-        height: 50px;
-        margin-right: 10px;
-      }
-      .employee h3 {
-        margin: 0;
-      }
-    </style>
-  </head>
-  <body>
-    <h1>Employee List</h1>
-    <div id="employee-list"></div>
-    <script src="app.js"></script>
-  </body>
+    <head>
+        <meta charset="UTF-8">
+        <title>Collection Card List</title>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+    </head>
+    <body>
+        <h1>Collection Card List</h1>
+        <div id="collection-card-list"></div>
+        <script src="app.js"></script>
+
+        <button onclick="showPrompt()">Login</button>
+
+        <hr>
+        <div class="card-list" id="cardList"></div>
+    </body>
 </html>

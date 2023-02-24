@@ -6,3 +6,73 @@ p {
     color: green;
     font-size: 16px;
 }
+
+.employee {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.employee img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+.employee h3 {
+    margin: 0;
+}
+
+.card-list {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    margin: 0 -50px;
+    padding: 50px 0;
+}
+
+.card {
+    position: relative;
+    width: 300px;
+    height: 400px;
+    margin: 0 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:not(:first-child) {
+    margin-left: -150px;
+}
+
+.card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.card-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.4;
+    transform: translateY(100%);
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover .card-content {
+    transform: translateY(0);
+}
+
+.card-list:hover .card:not(:hover) {
+    transform: scale(0.8);
+    opacity: 0.5;
+}
+
+.card-list:hover .card:not(:hover) .card-content {
+    transform: translateY(200%);
+}
