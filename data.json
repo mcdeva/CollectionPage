@@ -1,23 +1,28 @@
 {
     "employees": [
-      {
-        "name": "John",
-        "age": 30,
-        "position": "Manager",
-        "image": "image/pic1.jpg"
-      },
-      {
-        "name": "Jane",
-        "age": 25,
-        "position": "Developer",
-        "image": "image/pic2.jpg"
-      },
-      {
-        "name": "Bob",
-        "age": 35,
-        "position": "Designer",
-        "image": "image/pic3.jpg"
-      }
+        {
+            "name": "John",
+            "age": 30,
+            "position": "Manager",
+            "image": "image/pic1.jpg"
+        },
+        {
+            "name": "Jane",
+            "age": 25,
+            "position": "Developer",
+            "image": "image/pic2.jpg"
+        },
+        {
+            "name": "Bob",
+            "age": 35,
+            "position": "Designer",
+            "image": "image/pic3.jpg"
+        },
+        {
+            "name": "โบตั๋น",
+            "age": 1,
+            "position": "ซัพพอร์ต",
+            "image": "image/sv1S-077-078.png"
+        }
     ]
-  }
-  
+}
