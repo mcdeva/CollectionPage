@@ -1,18 +1,37 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <title>Collection Card List</title>
-        <link rel="stylesheet" type="text/css" href="styles.css">
-    </head>
-    <body>
-        <h1>Collection Card List</h1>
-        <div id="collection-card-list"></div>
-        <script src="app.js"></script>
-
-        <button onclick="showPrompt()">Login</button>
-
-        <hr>
-        <div class="card-list" id="cardList"></div>
-    </body>
+  <head>
+    <title>Card List</title>
+    <link rel="stylesheet" href="static/styles.css">
+  </head>
+  <body>
+    <form>
+      <label>Filter by:</label>
+      <input type="text" id="search-box" onkeyup="filterCards()" placeholder="Search...">
+      <label>Category:</label>
+      <input type="radio" name="category" value="all" checked>ทั้งหมด
+      <input type="radio" name="category" value="โปเกมอน">โปเกมอน
+      <input type="radio" name="category" value="สเตเดียม">สเตเดียม
+      <input type="radio" name="category" value="ไอเท็ม">ไอเท็ม
+      <input type="radio" name="category" value="ไอเท็มติดโปเกมอน">ไอเท็มติดโปเกมอน
+      <input type="radio" name="category" value="ซัพพอร์ต">ซัพพอร์ต
+    </form>
+    <br>
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Name</th>
+          <th>Energy</th>
+          <th>Category</th>
+          <th>Box</th>
+          <th>Order</th>
+          <th>Type</th>
+          <th>Quantity</th>
+        </tr>
+      </thead>
+      <tbody id="card-list"></tbody>
+    </table>
+    <script src="static/card_list.js"></script>
+  </body>
 </html>
