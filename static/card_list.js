@@ -48,19 +48,20 @@ fetch('static/cards.json')
         cards.forEach(card => {
             const row = document.createElement('tr');
             row.innerHTML = `
-            <td id="id">${card.id}</td>
-            <td id="name">${card.name}</td>
-            <td id="energy">${card.energy}</td>
-            <td id="category">${card.category}</td>
-            <td id="box">${card.box}</td>
-            <td id="order">${card.order}</td>
-            <td id="type">${card.type}</td>
-            <td id="quantity">${card.quantity}</td>
+            <td id="id" class="category-${card.category}">${card.id}</td>
+            <td id="name" class="category-${card.category}">${card.name}</td>
+            <td id="energy" class="category-${card.category}">${card.energy}</td>
+            <td id="category" class="category-${card.category}">${card.category}</td>
+            <td id="box" class="category-${card.category}">${card.box}</td>
+            <td id="order" class="category-${card.category}">${card.order}</td>
+            <td id="type" class="category-${card.category}">${card.type}</td>
+            <td id="quantity" class="category-${card.category}">${card.quantity}</td>
             `;
             cardList.appendChild(row);
         });
     })
     .catch(error => console.error('Error loading card data:', error));
+
 
 window.addEventListener("load", function() {
     // Listen for changes to the search box and category radio buttons
@@ -69,13 +70,4 @@ window.addEventListener("load", function() {
     for (var i = 0; i < categoryRadios.length; i++) {
         categoryRadios[i].addEventListener("change", filterCards);
     }
-
-    // Get all card elements
-    const cards = document.querySelectorAll('#category');
-
-    // Loop through each card and add the appropriate category class
-    cards.forEach((card) => {
-        const category = card.textContent;
-        card.classList.add(`category-${category}`);
-    });
 });
