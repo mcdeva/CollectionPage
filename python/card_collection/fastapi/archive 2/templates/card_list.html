@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Card List</title>
+    <script src="/static/card_list.js"></script>
+    <link rel="stylesheet" href="/static/styles.css">
+  </head>
+  <body>
+    <form>
+      <label>Filter by:</label>
+      <input type="text" id="search-box" onkeyup="filterCards()" placeholder="Search...">
+      <label>Category:</label>
+      <input type="radio" name="category" value="all" checked>ทั้งหมด
+      <input type="radio" name="category" value="โปเกมอน">โปเกมอน
+      <input type="radio" name="category" value="สเตเดียม">สเตเดียม
+      <input type="radio" name="category" value="ไอเท็ม">ไอเท็ม
+      <input type="radio" name="category" value="ไอเท็มติดโปเกมอน">ไอเท็มติดโปเกมอน
+      <input type="radio" name="category" value="ซัพพอร์ต">ซัพพอร์ต
+    </form>
+    <br>
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Name</th>
+          <th>Energy</th>
+          <th>Category</th>
+          <th>Box</th>
+          <th>Order</th>
+          <th>Type</th>
+          <th>Quantity</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for card in cards %}
+        <tr>
+          <td id="id">{{ card.id }}</td>
+          <td id="name">{{ card.name }}</td>
+          <td id="energy">{{ card.energy }}</td>
+          <td id="category">{{ card.category }}</td>
+          <td id="box">{{ card.box }}</td>
+          <td id="order">{{ card.order }}</td>
+          <td id="type">{{ card.type }}</td>
+          <td id="quantity">{{ card.quantity }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </body>
+</html>

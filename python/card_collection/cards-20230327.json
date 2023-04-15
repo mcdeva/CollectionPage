@@ -1,0 +1,4382 @@
+[
+    {
+        "id": "d1ad08b6-d3a6-45c1-a0af-e43fb57f537a",
+        "name": "กล่องใส่เครื่องมือ",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S11T",
+        "order": "091/100",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "54df21ae-366b-4489-9b13-160c7dc1886e",
+        "name": "อาร์เซอุสโฟน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S10aT",
+        "order": "063/071",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "34827d1c-5518-42f8-abaf-b664e604d222",
+        "name": "ไฮเปอร์บอล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS3D",
+        "order": "014/024",
+        "type": "A",
+        "quantity": 9
+    },
+    {
+        "id": "ddd27f39-43d1-4153-929e-a4fcd3e48d57",
+        "name": "ไฮเปอร์บอล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS2D",
+        "order": "018/028",
+        "type": "A",
+        "quantity": 2
+    },
+    {
+        "id": "0a734280-6049-4dbe-bd98-9eb0e41cf258",
+        "name": "ไฮเปอร์บอล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS1D",
+        "order": "121/140",
+        "type": "A",
+        "quantity": 2
+    },
+    {
+        "id": "9b41b166-ed8d-4c6e-b92f-0a3e82c6f47f",
+        "name": "เซียมซีพลังงาน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S10PT",
+        "order": "060/067",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "eca73beb-62b3-42e7-9157-483951c8323f",
+        "name": "เซียมซีพลังงาน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS1D",
+        "order": "116/140",
+        "type": "A",
+        "quantity": 1
+    },
+    {
+        "id": "d4ba0808-bbf3-4738-9f1d-000389da8f70",
+        "name": "ไหเปี่ยมพลัง",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S8bT",
+        "order": "134/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "73494da4-1a30-48b0-a049-20745fa262c6",
+        "name": "ดาร์กแพตช์",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SCFT",
+        "order": "149/176",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "1d79e174-225e-40e8-8919-1b6a9362e8f0",
+        "name": "ดาร์กแพตช์",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S12aT",
+        "order": "135/172",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "f09aed23-2e06-4888-b2d6-1c0fffc364eb",
+        "name": "เครื่องดื่มเชคด่วนจี๋",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S6aT",
+        "order": "060/069",
+        "type": "E",
+        "quantity": 3
+    },
+    {
+        "id": "288407f4-fd45-46dd-8b3e-4465669919f9",
+        "name": "พัดหมุนวน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S8bT",
+        "order": "131/184",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "05b069b0-e13d-4578-bd2f-a8eee23665b5",
+        "name": "พัดหมุนวน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S12aT",
+        "order": "132/172",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "64e8fa77-9bd7-47da-b67b-757b210fd6ad",
+        "name": "พัดหมุนวน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S5RT",
+        "order": "061/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "5a6275d8-c616-42a3-bb83-661679207fe6",
+        "name": "มิราจเกต",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S12aT",
+        "order": "141/172",
+        "type": "F",
+        "quantity": 5
+    },
+    {
+        "id": "f1114854-6c2c-4a62-af1c-573433ff1a3a",
+        "name": "เทอร์โบออกตัวทีหลัง",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S9aT",
+        "order": "061/067",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "4fafbb43-fd9e-48ff-8fcb-f087f53e69ab",
+        "name": "เอนเนอร์จี้รีไซเคิล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S5RT",
+        "order": "062/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "bade3b1b-4ad5-40b8-a9c6-d0f3c3a74670",
+        "name": "ลูกอมอัดเม็ดเพิ่มพลัง",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S12aT",
+        "order": "139/172",
+        "type": "E",
+        "quantity": 6
+    },
+    {
+        "id": "3ef575fd-8e98-47de-b382-8a24dd846b44",
+        "name": "แดเมจปั๊มพ์",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S12aT",
+        "order": "136/172",
+        "type": "F",
+        "quantity": 6
+    },
+    {
+        "id": "fe0411a5-51cd-49b2-a426-a9fdaa9a5ab1",
+        "name": "อีเต้อกล้าหาญ",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S12aT",
+        "order": "133/172",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "d0d37ab5-c834-4703-b255-f434dde9ba7e",
+        "name": "สับเปลี่ยนโปเกมอน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS3D",
+        "order": "014/022",
+        "type": "A",
+        "quantity": 2
+    },
+    {
+        "id": "9e0a59b9-4747-454b-bd39-24b8fe2978ac",
+        "name": "สับเปลี่ยนโปเกมอน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS2D",
+        "order": "019/028",
+        "type": "A",
+        "quantity": 1
+    },
+    {
+        "id": "f018231d-52eb-43b7-abd9-ae0eac3410e8",
+        "name": "สับเปลี่ยนโปเกมอน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS1D",
+        "order": "124/140",
+        "type": "A",
+        "quantity": 1
+    },
+    {
+        "id": "eb729071-f800-44fd-a8cc-e54c840ddab8",
+        "name": "ครอสทรานซีฟเวอร์",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S8T",
+        "order": "089/100",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "5c1306f6-62aa-4cb8-bdef-fe65718a8747",
+        "name": "หินปิดผนึกปฐพี",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S12T",
+        "order": "091/098",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "e290399d-bbbf-412f-a1d4-382cc93eb371",
+        "name": "หินปิดผนึกนภา",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S12aT",
+        "order": "146/172",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "3a17b5a6-3512-439b-b698-043f408fe31e",
+        "name": "สับเปลี่ยนโปเกมอน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SCFT",
+        "order": "151/176",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "c2a4da63-4f49-436d-9bfb-a46e8626af4a",
+        "name": "เนสต์บอล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SVAMT",
+        "order": "015/023",
+        "type": "G",
+        "quantity": 3
+    },
+    {
+        "id": "7210b67e-8c32-4548-93a0-156b1e28dd40",
+        "name": "เนสต์บอล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SVAWT",
+        "order": "014/023",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "d8cc563f-1119-4cb3-81a9-fc2c2bbefeb3",
+        "name": "เนสต์บอล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SVALT",
+        "order": "012/021",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "36758f7f-eb94-4818-8fe7-d72e9e9b0d66",
+        "name": "ทอยแคชเชอร์",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S7RT",
+        "order": "058/067",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "a61077f1-b4ed-4a7e-9fae-93902940d7fb",
+        "name": "โปเกมอนแคชเชอร์",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SCFT",
+        "order": "152/176",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "5fbf577c-e66a-446a-8622-e124138f0dcb",
+        "name": "โปเกมอนแคชเชอร์",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SVAWT",
+        "order": "018/023",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "6e96bb43-a260-4714-a4cb-10e7cc5a0f17",
+        "name": "โปเกมอนแคชเชอร์",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SVAMT",
+        "order": "019/023",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "6d217768-e4e9-4ab4-8768-24d7f977a049",
+        "name": "โปเกมอนแคชเชอร์",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS3D",
+        "order": "018/024",
+        "type": "A",
+        "quantity": 4
+    },
+    {
+        "id": "ef018175-e690-42b1-83e2-f46ab7f5b002",
+        "name": "โปเกมอนแคชเชอร์",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS2D",
+        "order": "019/028",
+        "type": "A",
+        "quantity": 3
+    },
+    {
+        "id": "46ea0ea8-89ea-40ee-a96f-94a7be74f849",
+        "name": "โปเกเกีย 3.0",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SVAWT",
+        "order": "016/023",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "ff4cc775-2aca-427f-b466-136434468935",
+        "name": "เฮฟวีบอลแห่งฮิซุย",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S12aT",
+        "order": "140/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "53583a0f-79fe-4360-b33e-32a301f1e70b",
+        "name": "เฮฟวีบอลแห่งฮิซุย",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S10PT",
+        "order": "062/067",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "ae946946-25fd-4198-b88c-100d002336c7",
+        "name": "อิเล็กทริกเจนเนอเรเตอร์",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SV1VT",
+        "order": "069/078",
+        "type": "G",
+        "quantity": 3
+    },
+    {
+        "id": "d0c52f66-c253-445e-b5a4-595fdda8fc91",
+        "name": "กู้คืนพลังงาน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS1D",
+        "order": "117/140",
+        "type": "A",
+        "quantity": 2
+    },
+    {
+        "id": "8fa3e930-95c7-4846-b58d-c6f3731cc5ea",
+        "name": "ลูกอมประหลาด",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SVALT",
+        "order": "014/021",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "1218b358-5a39-4669-b8c5-1d06bc64879e",
+        "name": "ลูกอมประหลาด",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SV1VT",
+        "order": "072/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "d8146614-0b82-42b3-a950-15fd772ac3a8",
+        "name": "ครอสสวิตเชอร์",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S8T",
+        "order": "090/100",
+        "type": "E",
+        "quantity": 4
+    },
+    {
+        "id": "3fe41455-20f1-48ed-bd0f-0b6363884439",
+        "name": "แว่นตาเหนือชั้น",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S10PT",
+        "order": "063/067",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "dc4be448-12ce-43af-a87e-d50984f25c6b",
+        "name": "ถุงมือนักล่า",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S8bT",
+        "order": "144/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "3728c362-fe95-4ff7-ac68-e3664a19c922",
+        "name": "เสื้อคลุมใบไม้กันฝน",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "SCFT",
+        "order": "157/176",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "720d082a-65be-4ba4-8e51-80714e9ef114",
+        "name": "ผ้าคาดหัวสู้ตาย",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "SV1ST",
+        "order": "073/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "e3a90e4c-9bc5-4062-bcf9-52e5bed1fa3c",
+        "name": "แขนกลไก",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S10aT",
+        "order": "065/071",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "abf59947-d91e-415a-b8b9-f1f04552e2c8",
+        "name": "ทูลแจมเมอร์",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S5RT",
+        "order": "064/070",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "7e0395cd-515c-4a5a-8ffe-0af160c256a5",
+        "name": "กล่องหายนะ",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S10aT",
+        "order": "066/071",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "b14da4bb-7baf-40be-8000-22c9e17d8af3",
+        "name": "อุปกรณ์ช่วยเรียนรู้",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "SV1ST",
+        "order": "072/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "8677608c-3711-4caa-a93e-bce3562ee5e3",
+        "name": "หมวกนิรภัยติดหิน",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "SV1VT",
+        "order": "073/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "c190dfbf-19e8-4f4a-aa80-5b7c82a07961",
+        "name": "หมวกนิรภัยหม้อ",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S9T",
+        "order": "091/100",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "dd810375-f994-4050-9044-7d0ef32ccb77",
+        "name": "เข็มขัดแห่งความแน่วแน่",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S12aT",
+        "order": "145/172",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "1693fb51-a26d-4674-abdf-dbb415a10b45",
+        "name": "เข็มขัดแห่งความแน่วแน่",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "SCFT",
+        "order": "156/176",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "1214ad4e-16e9-451b-b8d0-63664238b3e5",
+        "name": "ผ้าคาดหัวแห่งความแข็งแกร่ง",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "SVAWT",
+        "order": "019/023",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "53c898c3-902c-440b-bd47-8cb3a97fe471",
+        "name": "แพนิกมาสก์",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S11T",
+        "order": "094/100",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "bc26362c-e79b-4212-a807-27f1591abbf6",
+        "name": "อุปกรณ์ป้องกันใบหน้า",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S7DT",
+        "order": "062/067",
+        "type": "E",
+        "quantity": 3
+    },
+    {
+        "id": "8c304287-060b-4933-a7d5-26e8c5dc2d51",
+        "name": "ถุงมือฟองน้ำ",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S8T",
+        "order": "093/100",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "d9d258cb-bac7-44cb-83b4-feffd1e71340",
+        "name": "ถุงมือปัดเป่าเภทภัย",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S8bT",
+        "order": "142/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "364f074d-a50f-4c69-9951-8a0cc73f156c",
+        "name": "ถุงมือทำลาย",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S6HT",
+        "order": "064/070",
+        "type": "E",
+        "quantity": 3
+    },
+    {
+        "id": "178d8a75-14bc-4189-a94c-3b5874e83946",
+        "name": "กระดิ่งยักษ์ที่รำลึก",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S8T",
+        "order": "094/100",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "8e3e31f3-59ce-4a7e-bc15-ee06bc419ee4",
+        "name": "เหรียญตราสุริยันจันทรา",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S6aT",
+        "order": "064/069",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "e3d6ce5d-a56b-4968-9304-db9f0cef4c0e",
+        "name": "เหรียญตราริบบิ้น",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S6aT",
+        "order": "065/069",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "3acf97c8-5629-433d-85a9-6a148d51bf68",
+        "name": "เหรียญตราเอเลเมนทัล",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S6aT",
+        "order": "062/069",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "8f7fec38-5923-4852-a708-b329d0c67d06",
+        "name": "อุปกรณ์ปล่อยลัวร์",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S10bT",
+        "order": "067/071",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "c95af8f8-1e8a-454b-b34f-64986beb13b9",
+        "name": "แตรเสียงสะท้อน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S8bT",
+        "order": "140/184",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "a336f8dd-a475-49f5-8800-825d21eb33df",
+        "name": "ส่งต่อพลังงาน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SCFT",
+        "order": "143/176",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "cf5d9bfb-b8d5-4ea2-bcde-335f0df98b6c",
+        "name": "ส่งต่อพลังงาน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SC1DT",
+        "order": "147/164",
+        "type": "D",
+        "quantity": 1
+    },
+    {
+        "id": "88ce5557-6bd9-423f-8d5b-c7e3c26f8293",
+        "name": "ส่งต่อพลังงาน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SVAMT",
+        "order": "013/023",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "0c52d57c-19cd-4185-9804-9561a8d2da17",
+        "name": "เรสคิวแครี่",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SCDT",
+        "order": "132/159",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "382aa923-bc61-45a8-8d98-afd06e24fcf7",
+        "name": "เรสคิวแครี่",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S7DT",
+        "order": "059/067",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "e73419cb-8ab3-4f6a-9aa3-6cbb891a75d1",
+        "name": "เรสคิวแครี่",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S12aT",
+        "order": "142/172",
+        "type": "E",
+        "quantity": 4
+    },
+    {
+        "id": "ee5e7f55-11bf-43b5-87f0-66e92f914106",
+        "name": "สับเปลี่ยนโปเกมอน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SVALT",
+        "order": "016/021",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "d28d7c65-d8e4-4ac7-835a-0da60e95a77b",
+        "name": "ลอสต์สวีปเปอร์",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S11T",
+        "order": "093/100",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "d3205105-8a24-40fd-b0d8-f438f7d6e5fa",
+        "name": "ยารักษาแผล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SVAMT",
+        "order": "014/023",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "e02d53d6-8658-4820-96f5-9631d24f5e57",
+        "name": "สับเปลี่ยนโปเกมอน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S11aT",
+        "order": "061/068",
+        "type": "F",
+        "quantity": 8
+    },
+    {
+        "id": "c0e87f3f-2d95-47a3-9c3a-e3eebbee4f0c",
+        "name": "ไฮเปอร์บอล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S12aT",
+        "order": "138/172",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "b4e679ea-f2f7-4ecb-9f7a-e7ae1f405158",
+        "name": "หินสี่แฉก",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S12T",
+        "order": "089/098",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "b86a521f-374f-4456-98c7-e07cf76ddc42",
+        "name": "รถเข็นสับเปลี่ยน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S10DT",
+        "order": "060/067",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "2489590e-ec62-4cdc-9bd1-764354cfbf7a",
+        "name": "รองเท้าเดินป่า",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S12aT",
+        "order": "137/172",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "78df40ec-0b4d-4776-a003-0e847a149391",
+        "name": "ลูกอมประหลาด",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S10bT",
+        "order": "066/071",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "2e9612af-ba47-4cce-a5e5-ed4b1dc0cbd0",
+        "name": "ลูกอมประหลาด",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS5D",
+        "order": "148/169",
+        "type": "A",
+        "quantity": 2
+    },
+    {
+        "id": "340d19d7-bffa-4154-9666-81119b6fa9c3",
+        "name": "โคโลญจน์ยกเลิก",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S9aT",
+        "order": "063/067",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "6b7c570a-4604-4923-9b23-fc20741c2235",
+        "name": "เชือกหลบหนี",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS2D",
+        "order": "013/028",
+        "type": "A",
+        "quantity": 1
+    },
+    {
+        "id": "02c43381-32aa-4489-9af9-0ceaf54533ad",
+        "name": "เชือกหลบหนี",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS2a",
+        "order": "152/172",
+        "type": "A",
+        "quantity": 1
+    },
+    {
+        "id": "890f0ca7-5653-4470-8ec7-e8b03c6faddd",
+        "name": "ป่าช้าโบราณ",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "S8bT",
+        "order": "168/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "8e0ef76f-dd54-4116-925b-db7052ac62da",
+        "name": "ป่าช้าโบราณ",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "S6KT",
+        "order": "068/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "f07e0d47-a97a-4d21-a9cc-948730afcfbe",
+        "name": "หนองน้ำปากกว้าง",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "S12aT",
+        "order": "166/172",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "09cbc23c-672d-4d72-aaf8-2512bc6176d4",
+        "name": "ลอสต์ซิตี้",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "S11T",
+        "order": "099/100",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "987051c1-c998-4daf-9805-ee61f579fd34",
+        "name": "หอคอยแห่งความมืด",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "S8bT",
+        "order": "166/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "725205e2-9bd8-40a1-9827-25c7b5eb0945",
+        "name": "วิหารชินโอ",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "S12aT",
+        "order": "169/172",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "ef53fd7a-cf01-403c-924e-78a9cc464d6c",
+        "name": "อุทยานสงบใจ",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "PROMO",
+        "order": "143/S-P",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "4c3bcb51-78c2-4dcb-a860-ff281e299d7c",
+        "name": "ทางหิมะสู่ยอดเขา",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "S6HT",
+        "order": "069/070",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "da52fb38-f8ae-4a6e-abb9-4bf406bb49c9",
+        "name": "ทางหิมะสู่ยอดเขา",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "S12aT",
+        "order": "165/172",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "1d71b818-c3ba-449f-98b8-e51562685925",
+        "name": "บีชคอร์ท",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "SV1ST",
+        "order": "078/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "2d77fef5-3f7b-47f9-bb12-f3769ac47120",
+        "name": "แท่นบูชาอนารยะ",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "S12T",
+        "order": "097/098",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "c9e09c93-e18c-48a2-8adf-21a6d03d901c",
+        "name": "หมู่บ้านโคโตบุกิ",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "S12aT",
+        "order": "168/172",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "fa03e63f-93d4-4fa5-9927-aafc5ffeaaab",
+        "name": "สเตเดียมที่พังทลาย",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "S12aT",
+        "order": "167/172",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "be914390-a41d-40ec-b856-a1097a26d854",
+        "name": "แอ่งน้ำตกแม็กมา",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "S12aT",
+        "order": "170/172",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "c9d47e71-8400-472c-9dbf-26de7bb2b451",
+        "name": "แฟชั่นมอลล์",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "S6aT",
+        "order": "068/069",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "3ab69803-f7d6-43b9-857d-83c5c8113f0b",
+        "name": "ถ้ำคริสตัล",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "S7DT",
+        "order": "066/067",
+        "type": "E",
+        "quantity": 3
+    },
+    {
+        "id": "c702162a-4145-436b-bfef-db6d34c16892",
+        "name": "เสาโปเกสต็อป",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "S10bT",
+        "order": "071/071",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "f891b207-477a-4e56-ae74-cd74d06bffc2",
+        "name": "ทะเลสาบเอจิ",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "S10aT",
+        "order": "071/071",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "7b5c4d3f-95d4-4131-8daf-094668817337",
+        "name": "ซีบรายกา",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S6KT",
+        "order": "022/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "f59cb87f-3e9f-4da9-a806-fa55da6b3ce9",
+        "name": "เมรีป",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S6KT",
+        "order": "018/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "89380d49-f931-4abe-b613-1c6284752d48",
+        "name": "โอโทสพัส",
+        "energy": "Fighting",
+        "category": "โปเกมอน",
+        "box": "S6KT",
+        "order": "043/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "b9d401a5-7508-49f0-97c5-046e66c33cc9",
+        "name": "คาปู เรฮิเร",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "S6KT",
+        "order": "016/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "a4062a60-057d-4132-8075-ad8e3f285529",
+        "name": "ทามันทูล่า",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "006/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "7e1fa242-6ae4-4926-a62b-df6e55083bf8",
+        "name": "ทามันทูล่า",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "SVAMT",
+        "order": "007/023",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "f56fad9d-945c-469a-b708-d7352bf498ba",
+        "name": "เรเดียน",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S6KT",
+        "order": "002/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "6125ecf7-c93e-4503-b2c1-3ea5b2d74ef4",
+        "name": "โกบิท",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S6KT",
+        "order": "030/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "a5ea810f-e08e-4552-83b0-bac3141dfd63",
+        "name": "ยามิรามิ",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S6KT",
+        "order": "028/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "5acb04f9-6f3f-4c9e-9d5d-71c259595c8d",
+        "name": "คาลามาเนโร",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S6KT",
+        "order": "033/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "13d07f32-8de5-4e36-b61d-43d1c687321a",
+        "name": "ฮากาด็อก",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "PROMO",
+        "order": "015/SV-P",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "5c187ccf-be6a-4a91-ac29-b94667cec4e5",
+        "name": "บีดารุ",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S9T",
+        "order": "082/100",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "0e5a39cb-0d7d-48a8-941f-355a857393b0",
+        "name": "คาคุเลียน",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S6KT",
+        "order": "054/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "496e9c56-289f-4256-8022-197005fb81ce",
+        "name": "โฮชิกะริสึ",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S6KT",
+        "order": "058/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "df1ca769-3791-45e9-8f76-151a1d021745",
+        "name": "บิปปา",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S9T",
+        "order": "081/100",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "46446928-a06a-47df-a1a2-391b2792b0ad",
+        "name": "บิปปา",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "121/172",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "f586d659-7b6e-4d41-90b3-f5b4fb6c1fdf",
+        "name": "ลีเฟีย V",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S6aT",
+        "order": "002/069",
+        "type": "E",
+        "quantity": 4
+    },
+    {
+        "id": "d37e6add-9f85-4957-9881-4b2f8b66b157",
+        "name": "ลีเฟีย V",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "011/172",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "95ba1515-ab38-4eea-b584-c2116499b36e",
+        "name": "ลีเฟีย VMax",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S6aT",
+        "order": "003/069",
+        "type": "E",
+        "quantity": 4
+    },
+    {
+        "id": "64421edf-e714-422a-8f34-1d9630fafa71",
+        "name": "เหรียญตราใบไม้หิมะ",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S6aT",
+        "order": "063/069",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "3f678bce-e70c-461a-b5e7-4bb6657ce5af",
+        "name": "เทเบิลซิตี้",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "SV1VT",
+        "order": "078/078",
+        "type": "G",
+        "quantity": 3
+    },
+    {
+        "id": "a623430d-4177-430d-8b1a-283a87fd5524",
+        "name": "เนจิกิ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S11T",
+        "order": "097/100",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "e2835563-2b42-441d-bdfa-d63c83a566c5",
+        "name": "คิบานะ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12aT",
+        "order": "151/172",
+        "type": "E",
+        "quantity": 4
+    },
+    {
+        "id": "6cb8075a-9948-46a6-8d33-ffe0774cbed0",
+        "name": "งานวิจัยของศาสตราจารย์ (ศาสตราจารย์นานาคามาโดะ)",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SCFT",
+        "order": "169/176",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "e7908a6d-6e8b-4c0c-b3db-48d5868b3c63",
+        "name": "งานวิจัยของศาสตราจารย์ (ศาสตราจารย์นานาคามาโดะ)",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12aT",
+        "order": "159/172",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "3b0687bd-cc60-46e8-9d91-0a04131c56dd",
+        "name": "ความสดใสของนาทาเนะ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S10DT",
+        "order": "065/067",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "f8cdacfd-5502-435b-92d0-3d91bf43c44a",
+        "name": "สับเปลี่ยนโปเกมอน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SVAMT",
+        "order": "018/023",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "83d3dd69-e83f-49e6-87e1-8da607474152",
+        "name": "พลังงานพื้นฐาน (หญ้า)",
+        "energy": "Grass",
+        "category": "พลังงาน",
+        "box": "GRA",
+        "order": "",
+        "type": "",
+        "quantity": 22
+    },
+    {
+        "id": "58f5c496-2d09-420f-bf6d-0851924a1a9d",
+        "name": "พลังงานพื้นฐาน (พลังจิต)",
+        "energy": "Psychic",
+        "category": "พลังงาน",
+        "box": "PSY",
+        "order": "",
+        "type": "",
+        "quantity": 13
+    },
+    {
+        "id": "b1fbdbd0-b3c6-49b2-9d7d-1865e33e9382",
+        "name": "ลางสังหรณ์ของอเซโรลา",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S8bT",
+        "order": "148/184",
+        "type": "E",
+        "quantity": 4
+    },
+    {
+        "id": "0108677f-069d-4dae-b34a-79c7349b66c2",
+        "name": "สึสึจิ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12aT",
+        "order": "157/172",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "7e2853b6-2ad3-4b32-ab75-cb48e5c4100f",
+        "name": "ผู้ตัดสิน",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SCFT",
+        "order": "163/176",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "e14510f1-31b6-4e40-929f-a8f3770b9f07",
+        "name": "ผู้ตัดสิน",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S11aT",
+        "order": "063/068",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "71a1c777-dc69-40c1-a046-63bbca98aac0",
+        "name": "โมมิ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12aT",
+        "order": "163/172",
+        "type": "E",
+        "quantity": 5
+    },
+    {
+        "id": "5eded7a1-4c6b-4631-99eb-4dc8605cf019",
+        "name": "คำสั่งของบอส",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12aT",
+        "order": "161/172",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "fc019b9a-ba2c-463b-bdb1-1a9491d619f4",
+        "name": "บัตรแบตเทิล VIP",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S8T",
+        "order": "091/100",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "feadaaf2-95d6-49e4-bb2c-10f9d65d09e2",
+        "name": "คนงาน",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12T",
+        "order": "093/098",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "b4c05907-a307-43d4-ae69-3b9afebd70f1",
+        "name": "ยูริ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S8bT",
+        "order": "163/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "5dadff1c-58fd-4061-8440-379f3b661698",
+        "name": "ลอสต์สวีปเปอร์",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S12aT",
+        "order": "144/172",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "b183bfce-4736-4acb-940d-c6c7317c560c",
+        "name": "มิมิคคิว V",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S5IT",
+        "order": "027/070",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "c298959b-3491-4ad4-8d06-7e934b8a6c2d",
+        "name": "มิมิคคิว ex",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "SVAWT",
+        "order": "006/023",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "4eea7324-f434-4328-bf9a-86efbe92019a",
+        "name": "โดราเปียน V",
+        "energy": "Darkness",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "107/100",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "af986f19-6e4d-4be1-83fa-6383c77ece0a",
+        "name": "มิว",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S8aT",
+        "order": "002/028",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "955c0009-2329-4075-aaa2-63a4fb39111a",
+        "name": "ฮิซุย โซโรอาร์ค",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S10aT",
+        "order": "030/071",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "8a356d47-3f95-43b5-822c-e03f9e714bbf",
+        "name": "โบรโรโรม",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "061/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "bb05c3b1-0f86-436d-ba7b-84301e65e60e",
+        "name": "โคโรโบชิ",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S10PT",
+        "order": "004/067",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "6f215a09-4934-46a2-9dce-2302e2516571",
+        "name": "โคโรท็อก",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "010/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "9f1cfd11-cbe3-4f29-80b8-5c8cd3953c61",
+        "name": "นาเอเติล",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "006/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "d02b6c2d-409c-41ee-98aa-a5d626a0d3f6",
+        "name": "ฮายาชิกาเมะ",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S9T",
+        "order": "007/100",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "8f647cfd-e353-4357-8591-bc926b087e84",
+        "name": "โดไดโทส",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "008/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "a60d85ef-aade-467d-8488-98be2acc950f",
+        "name": "เชอรินโบ",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S8bT",
+        "order": "005/184",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "773b18bd-3cd3-4f16-a4ad-11e479fb65b7",
+        "name": "เชอริม",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S8bT",
+        "order": "006/184",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "73d5a9e3-9331-45d2-b905-5e2e45b2fc84",
+        "name": "เปปเปอร์",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SV1VT",
+        "order": "076/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "60912560-be58-4554-918c-8a224feb0fdb",
+        "name": "ความสดใสของนาทาเนะ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12aT",
+        "order": "158/172",
+        "type": "F",
+        "quantity": 5
+    },
+    {
+        "id": "6064a8c7-880a-4bf2-a4a7-6aa245a8629a",
+        "name": "การทดลองของอโครมา",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S11T",
+        "order": "095/100",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "29002aae-9fec-4c31-b407-8e5d812df22a",
+        "name": "รองเท้าเดินป่า",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S10DT",
+        "order": "061/067",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "bbd18c28-b334-4b1f-bdbd-172849b9e819",
+        "name": "เข็มขัดแห่งความแน่วแน่",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S9T",
+        "order": "090/100",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "af6e6155-9191-479a-afff-f38b4e8aa2e2",
+        "name": "โปเกเกีย 3.0",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SVAMT",
+        "order": "017/023",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "6428aa03-d056-42b7-a56a-cef86001b5ad",
+        "name": "สลับการ์ดพลังงาน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SVAMT",
+        "order": "012/023",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "3e0758e6-d200-49b7-88c9-df03e825446b",
+        "name": "คิววะวา",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "049/100",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "d5ea2629-662e-413c-ac39-4eef491378d2",
+        "name": "คิววะวา",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "064/172",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "85ceb3f2-cec3-40e8-b2fd-4c427d3ef593",
+        "name": "มิมิคคิว",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "050/100",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "36ba44f8-5b52-43ef-909c-49df2b1cd5b6",
+        "name": "เรเดียนต์ฟูดิน",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S10aT",
+        "order": "031/068",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "ae86f11b-3dd3-4583-86d5-d18805975348",
+        "name": "เนียสเปอร์",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S5IT",
+        "order": "025/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "81f5ee17-6836-4279-adc4-90806bd3d8e5",
+        "name": "ราลทซ์",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "026/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "ba72d756-27ff-4dc3-b016-2f41d6f60316",
+        "name": "คอสโมม",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S8aT",
+        "order": "015/028",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "25982df3-d1d2-4cc3-8ca6-cb5a5b74b551",
+        "name": "ฮิซุย โซรัว",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S10aT",
+        "order": "029/071",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "ad59d3dd-72dc-4948-b0cb-f255a20d7c2f",
+        "name": "เคลฟฟี",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "045/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "a5b79e8a-3c4d-4ead-b260-e13c8a8ed806",
+        "name": "เดเด็นเนะ",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "SVAWT",
+        "order": "005/023",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "38189f8e-3889-49da-99ac-1dcb3b3ef478",
+        "name": "โทเกชิก",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "PROMO",
+        "order": "092/S-P",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "188c92dc-5ef9-4af5-a0f3-608ca9110b7c",
+        "name": "เซอเนียส",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S8aT",
+        "order": "012/028",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "287636b6-cab8-46b9-b97c-3773019882c8",
+        "name": "ฟูวันเต",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "029/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "7e08e09e-2e76-4a35-9886-a73261ccdf15",
+        "name": "ฟูวาไรด์",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "030/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "823da0c0-c217-42ec-abdf-74c76f7a4e68",
+        "name": "ยามิรามิ",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "044/100",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "e3565df1-4a7e-41de-9399-96a3a3addd5b",
+        "name": "รูจูลา",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "071/068",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "a989cabe-3c1b-4d29-923e-189a69169c26",
+        "name": "เดเด็นเนะ",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "031/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "0bfce1f0-d842-45c0-a84a-153802c97d72",
+        "name": "เควสพัตรา",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "PROMO",
+        "order": "007/SV-P",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "cc308112-c22a-4294-b8ac-ff49185437d1",
+        "name": "แอปปริว V",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S5IT",
+        "order": "007/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "e8d1a345-2ec4-4425-a15d-fe6412159d78",
+        "name": "เชมิน V",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S9T",
+        "order": "012/100",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "fd532d1f-6e82-46b8-8640-210695a8ad53",
+        "name": "เชมิน VStar",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S9T",
+        "order": "013/100",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "971e3d14-f051-494a-9618-1539afb7a13a",
+        "name": "มินีฟ",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "PROMO",
+        "order": "012/SV-P",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "6a147ad2-23ed-414a-a079-c91e12096f5d",
+        "name": "มินีฟ",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "006/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "c288880f-788f-48a3-9fa0-46e95fcf1112",
+        "name": "เฮราครอส",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "002/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "d19c7d0a-3339-40ea-ab55-483094255e80",
+        "name": "โคโรโบชิ",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "009/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "27248656-c8c7-499a-b7d2-a61c770bfa7e",
+        "name": "เรเดียนต์ฟุชิกิบานะ",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S10bT",
+        "order": "004/071",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "960a78b7-3007-48eb-baa7-5f6b8a330390",
+        "name": "เรเดียนต์อมาโจ",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S10aT",
+        "order": "009/068",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "e7052493-376c-4bb7-92ef-dc281cd33564",
+        "name": "โกโกท",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "004/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "a4ca526e-796d-460b-86c1-d561c1430fb3",
+        "name": "น็อคทัส",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "002/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "29d846f1-21ab-4422-bc84-afa5d9ea8518",
+        "name": "วาไนเดอร์",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "PROMO",
+        "order": "001/SV-P",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "862b0c6e-a8ea-444f-befc-51b19fa2cfa3",
+        "name": "กูเรคกรู",
+        "energy": "Darkness",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "054/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "93512d16-fa6c-47b9-b721-9b1d5fb6eb9b",
+        "name": "โดโดเกซัน",
+        "energy": "Darkness",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "058/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "4d05ed76-2276-4327-9181-4bd61dcd8f20",
+        "name": "เบโตเบตา",
+        "energy": "Darkness",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "051/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "ee46fd32-40c7-4d41-a484-31f49f420de4",
+        "name": "โซรัว",
+        "energy": "Darkness",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "090/172",
+        "type": "E",
+        "quantity": 4
+    },
+    {
+        "id": "3a4e6336-4808-465f-a474-8fa0a0337557",
+        "name": "โซโรอาร์ค",
+        "energy": "Darkness",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "091/172",
+        "type": "E",
+        "quantity": 3
+    },
+    {
+        "id": "4dedfea1-1d0b-4ecc-b2b1-cc2bd1e22b41",
+        "name": "เรเดียนต์ฮิซุย โอนิวลา",
+        "energy": "Darkness",
+        "category": "โปเกมอน",
+        "box": "S10aT",
+        "order": "046/071",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "efe85255-c305-47d4-89aa-b44a6997a3af",
+        "name": "มาฟีทิฟ",
+        "energy": "Darkness",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "088/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "7454f8a6-733b-4da4-837b-b2c9b3549b24",
+        "name": "เนโอแลนท์ V",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "216/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "585104e7-146a-415a-ab5c-744dde82db71",
+        "name": " ไคออกา",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "S8aT",
+        "order": "007/028",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "b65b0564-51f0-44a9-8b4b-46dbc5d096ad",
+        "name": "ออคตัน",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "S8bT",
+        "order": "031/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "e9e67a6f-53e9-4df0-a704-463c8f01ff77",
+        "name": "วูลาโอส จู่โจมต่อเนื่อง",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "S8bT",
+        "order": "042/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "5fcea7b2-3356-41a3-9047-c172c877fa82",
+        "name": "เฮรัชเชอร์",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "PROMO",
+        "order": "003/SV-P",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "2127e4df-1bff-41e7-bfa1-c519b1d2bbd0",
+        "name": "รุนปัปปา",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "S7DT",
+        "order": "004/067",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "cc446b40-1f21-444e-bea7-7d7ac4e3a6f3",
+        "name": "มิโลคารอส",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "S10aT",
+        "order": "070/068",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "2a120bbc-8dc6-4ba4-83ec-37f47fce1e54",
+        "name": "นามาโคบูชิ",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "S8T",
+        "order": "027/100",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "8046d76c-c4e3-43f5-9c9f-ce32e35a02c6",
+        "name": "โฟลเซล",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "016/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "233b4408-a588-441d-a278-9b416b60f0e0",
+        "name": "ฮากิกิชิริ",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "017/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "503c8291-6c2b-44b6-ba03-12b79c6b616a",
+        "name": "เอรูเรโด",
+        "energy": "Fighting",
+        "category": "โปเกมอน",
+        "box": "S8bT",
+        "order": "085/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "f497f3bd-53f3-4d3d-84ac-eb8989d1f106",
+        "name": "ลูคาริโอ",
+        "energy": "Fighting",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "041/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "e05ff9f2-bcef-49c1-8725-2cfa86b4083c",
+        "name": "ซาไดจา",
+        "energy": "Fighting",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "047/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "62cdedd1-8462-4794-81ff-0d5432d08569",
+        "name": "ไคเด็น",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "023/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "732c57a0-61dd-4479-945e-bcb9d55bfd99",
+        "name": "เอเลคิเบิล",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S5IT",
+        "order": "016/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "ca867a00-7463-4e0e-912c-890843c199ce",
+        "name": "เซครอม",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S8aT",
+        "order": "011/028",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "bae54917-b8ad-42e6-b224-f4404488c3ff",
+        "name": "มิไรดอน",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "PROMO",
+        "order": "005/SV-P",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "636bafe4-957a-42ee-9131-7bc7b8b627ff",
+        "name": "พิคาชู",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "PROMO",
+        "order": "113/S-P",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "922e014c-a3a8-4698-92a2-cbb0d5a68938",
+        "name": "คาร์โบ",
+        "energy": "Fire",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "011/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "42d29e8a-1e29-4bc4-8518-748e1605cb3f",
+        "name": "เรเดียนต์ลิซาร์ดอน",
+        "energy": "Fire",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "015/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "b5d53b12-4522-48cf-ba83-e2696af59129",
+        "name": "การ์ดี",
+        "energy": "Fire",
+        "category": "โปเกมอน",
+        "box": "PROMO",
+        "order": "013/SV-P",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "9e470911-ce11-4e2f-9f97-0d1b7275be93",
+        "name": "วินดี",
+        "energy": "Fire",
+        "category": "โปเกมอน",
+        "box": "PROMO",
+        "order": "002/SV-P",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "6ea451b9-509d-40dd-a5b5-ab85650873dc",
+        "name": "อาเคโอส",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "PROMO",
+        "order": "135/S-P",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "6b0f443b-fa96-413c-a3b6-6cf111bb60e5",
+        "name": "เชมิน",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "PROMO",
+        "order": "134/S-P",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "8c6f4e74-cfd4-46ed-80d4-0a7a5f0d46fa",
+        "name": "เบโรรินกา",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S5IT",
+        "order": "057/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "fbd8ec08-4e12-40fc-8b55-ca1dd2563ca0",
+        "name": "บีดารุ",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "122/172",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "f68b2d92-5c32-441c-964b-e29f8e362c46",
+        "name": "โบรรอน",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "059/078",
+        "type": "G",
+        "quantity": 3
+    },
+    {
+        "id": "b2081ddc-6314-4b3e-b648-076737ec665a",
+        "name": "โบรรอน",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "060/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "467cc17a-424a-430d-b18d-f158f1a6a842",
+        "name": "โบรรอน",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "PROMO",
+        "order": "017/SV-P",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "210c139c-e6a2-4b21-a20f-423d4a6e60d3",
+        "name": "นิดังกิล",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S5IT",
+        "order": "052/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "831f9a43-014c-455c-969e-b8e5d29fd985",
+        "name": "เพอร์ฟูตง",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "PROMO",
+        "order": "010/SV-P",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "06874fe7-2943-49d8-ac75-0a9f9b482568",
+        "name": "พเทอรา",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "PROMO",
+        "order": "142/S-P",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "1ab9d2ad-708a-478c-b071-450b6b65529b",
+        "name": "โคลซา",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "PROMO",
+        "order": "018/SV-P",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "21417f98-6c74-4ea5-a49b-62c2e66db1f3",
+        "name": "คุราระ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S5aT",
+        "order": "067/070",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "a8d6f237-429e-4f4e-bc80-55e5ebdf1949",
+        "name": "ผู้ตัดสิน",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SVALT",
+        "order": "018/021",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "10b170e6-0141-4d1b-8a5b-7f04752ce647",
+        "name": "งานวิจัยของศาสตราจารย์ (ศาสตราจารย์โอลิม)",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SVAWT",
+        "order": "023/023",
+        "type": "G",
+        "quantity": 3
+    },
+    {
+        "id": "36dde99f-9b2e-41c7-8cfe-10287ae35ee1",
+        "name": "ฮินาสึ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S10aT",
+        "order": "069/071",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "f1a522c7-1daa-4711-b3c9-66c1298f469c",
+        "name": "สาวฟุริโซเดะ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S11aT",
+        "order": "065/068",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "2f9fce96-bb19-42ac-8752-aa2418c58a32",
+        "name": "การทดลองของอโครมา",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12aT",
+        "order": "148/172",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "209e2bbf-815c-448f-b7bd-72cf2ad8e20a",
+        "name": "เชือกหลบหนี",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SCFT",
+        "order": "141/176",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "2f4e2433-d272-4f51-a183-56564a5ea62c",
+        "name": "เชือกหลบหนี",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S8bT",
+        "order": "130/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "098067e1-d3e7-4877-9306-8a42a69af9a5",
+        "name": "เกราะหุ้มหน้าอกหิน",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "SV1ST",
+        "order": "071/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "51c57355-076e-4d3a-918c-ebef7a92877f",
+        "name": "กู้คืนพลังงาน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SVAWT",
+        "order": "011/023",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "bd5d8cf2-9ec6-4446-a23d-b6e990e129a6",
+        "name": "แคปเจอร์อโรมา",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S11aT",
+        "order": "060/068",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "855fe7a3-4f0e-4ad6-ac66-776c2ac767c1",
+        "name": "ดับเบิลเทอร์โบเอนเนอร์จี้",
+        "energy": "",
+        "category": "พลังงาน",
+        "box": "PROMO",
+        "order": "136/S-P",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "8a7a63be-8381-4333-a8ea-ff180c44d117",
+        "name": "ดับเบิลเทอร์โบเอนเนอร์จี้",
+        "energy": "",
+        "category": "พลังงาน",
+        "box": "S11aT",
+        "order": "067/068",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "ee23147f-7e34-4b69-ba9d-6db0d9ee39be",
+        "name": "ดับเบิลเทอร์โบเอนเนอร์จี้",
+        "energy": "",
+        "category": "พลังงาน",
+        "box": "S12aT",
+        "order": "171/172",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "22301968-242a-4af4-8e06-87ab2178b1a3",
+        "name": "พลังงานจู่โจมแบบฟิวชัน",
+        "energy": "",
+        "category": "พลังงาน",
+        "box": "S12aT",
+        "order": "172/172",
+        "type": "E",
+        "quantity": 3
+    },
+    {
+        "id": "2ed5e1b5-b2ee-4075-85bc-624da7fd1d54",
+        "name": "มิโมซา",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SV1VT",
+        "order": "077/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "147008bc-6b3d-451c-9bbb-b1aa24632d1b",
+        "name": "ผู้ตัดสิน",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SVAMT",
+        "order": "020/023",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "0a85944a-caeb-47fa-b3f9-34d6135099f7",
+        "name": "เซเวอรี",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S5aT",
+        "order": "068/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "95d80f04-5a1d-45b0-b16b-444c5c55b95b",
+        "name": "สึสึจิ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12aT",
+        "order": "242/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "9a421913-0f4a-4efe-9117-74e3ac969560",
+        "name": "คำสั่งของบอส",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12aT",
+        "order": "250/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "e2975c0e-eb07-474b-970f-35bea1699214",
+        "name": "คำสั่งของบอส",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S9T",
+        "order": "097/100",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "77f8661f-8c3d-4ab7-a756-10958dd4bd3f",
+        "name": "ไฮเปอร์บอล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SVAWT",
+        "order": "015/023",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "58ee3ec2-2591-483f-ba22-75db8f6774a2",
+        "name": "ไฮเปอร์บอล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SVAMT",
+        "order": "016/023",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "db71946f-5ec7-45db-8a06-d72252c707b2",
+        "name": "ไฮเปอร์บอล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SVALT",
+        "order": "013/021",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "8ab0045d-5a25-48c0-bc3f-68dead24da80",
+        "name": "คริสตัลหมอก",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S12aT",
+        "order": "134/172",
+        "type": "E",
+        "quantity": 3
+    },
+    {
+        "id": "37191a23-0add-434c-91ab-66f3ddc2b9f5",
+        "name": "คริสตัลหมอก",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S8bT",
+        "order": "135/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "8430c1d4-38e1-4dff-8774-535d451f42d1",
+        "name": "สมุดบันทึกเพื่อน",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SV1ST",
+        "order": "069/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "c16c8b66-4034-47d6-bf21-2b6209548171",
+        "name": "ลูกอมประหลาด",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS3D",
+        "order": "015/024",
+        "type": "A",
+        "quantity": 2
+    },
+    {
+        "id": "a1857707-69dd-48e2-89e1-5f2046f097e7",
+        "name": "เลเวลบอล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SCFT",
+        "order": "153/176",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "28a30390-7877-481b-ad23-8561617361d0",
+        "name": "เลเวลบอล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SCET",
+        "order": "150/173",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "e0dca825-9ae4-4d01-9585-6f54b248ea6d",
+        "name": "มิมิคคิว V",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S8bT",
+        "order": "076/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "dff3610f-2eed-4bad-9171-71761898669f",
+        "name": "มิมิคคิว VMax",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S8bT",
+        "order": "077/184",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "e9e7a71b-83c9-4917-b0d3-0a480b55673f",
+        "name": "ลูนาโทน",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "056/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "bc81c4b8-f1fe-4293-83a5-04951376a9d1",
+        "name": "เครเซเลีย",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S10DT",
+        "order": "028/067",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "3b93ebef-8bd8-491f-89c0-5aba6b6112c8",
+        "name": "เรเดียนต์เก็คโคกะ",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "S9aT",
+        "order": "026/067",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "f5cdeb20-a4da-4f40-8b2c-ebedeb2ba0b5",
+        "name": "มานาฟี",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "178/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "17eea391-ed82-4c4e-928d-0937cce4abd7",
+        "name": "ราลทซ์",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "036/068",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "5cf96e24-5461-40e6-ae1d-45e98befc692",
+        "name": "เคอเรีย",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "037/068",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "3ba03d89-0a6f-4d52-9c0e-3e51fa264ca1",
+        "name": "เคอเรีย",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S8bT",
+        "order": "062/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "37f7889c-58d5-4e9e-bc9c-3e5cd213ad87",
+        "name": "เอรูเรโด",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S9aT",
+        "order": "034/067",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "b11a166a-2ff5-49de-a343-f12fb9d5a763",
+        "name": "เซอไนท์",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S6HT",
+        "order": "035/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "cd8117e4-63de-4e46-b94e-a7458053ac71",
+        "name": "เซอไนท์",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S8bT",
+        "order": "063/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "16961599-58db-42d3-ac2e-b2a023884444",
+        "name": "เซอไนท์ ex",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "092/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "478611d0-72f8-4127-871e-2f7d29886c8c",
+        "name": "เซอไนท์ ex",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "028/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "51510a3d-32fa-4aa6-a59d-94a5cb070e4d",
+        "name": "ตะกร้าปิกนิก",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SV1ST",
+        "order": "071/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "23ee352a-f0c0-4652-82d4-324249275688",
+        "name": "สลับการ์ดพลังงาน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS2D",
+        "order": "013/028",
+        "type": "A",
+        "quantity": 1
+    },
+    {
+        "id": "0ab488ad-759b-48ce-a399-b58e8d812f96",
+        "name": "เยลลี่ฉุกเฉิน",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S11aT",
+        "order": "062/068",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "52d2fdb7-e45b-47b6-9bbb-ccec1ef58bfd",
+        "name": "สลับการ์ดพลังงาน",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S11aT",
+        "order": "059/068",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "ac503978-63f4-4e33-a839-eb8fdc8a4d53",
+        "name": "เครื่องฟักไข่",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S10bT",
+        "order": "065/071",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "8c8796d0-7ed1-4640-b80c-55ff66d72e28",
+        "name": "แครชแฮมเมอร์",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SVAWT",
+        "order": "013/023",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "168167ae-845f-4c3b-bf96-a07ebea2c522",
+        "name": "แครชแฮมเมอร์",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS2b",
+        "order": "155/171",
+        "type": "A",
+        "quantity": 1
+    },
+    {
+        "id": "64e340a4-7e88-4b21-8a1e-ccd470afc1ca",
+        "name": "แครชแฮมเมอร์",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS2D",
+        "order": "015/028",
+        "type": "A",
+        "quantity": 1
+    },
+    {
+        "id": "1f392c03-2d7d-40e0-a7fe-173eded0256f",
+        "name": "แครชแฮมเมอร์",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SCET",
+        "order": "142/173",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "2ca2be49-e80e-4eb0-a778-b5a414a3cfea",
+        "name": "ซูเปอร์บอล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS2a",
+        "order": "153/171",
+        "type": "A",
+        "quantity": 3
+    },
+    {
+        "id": "8f1c4172-1271-4da6-b429-4e64a553f467",
+        "name": "ซูเปอร์บอล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS2D",
+        "order": "016/028",
+        "type": "A",
+        "quantity": 2
+    },
+    {
+        "id": "c1b5585c-21ec-4c8e-ab18-ffb74f4ddebb",
+        "name": "ซูเปอร์บอล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SCFT",
+        "order": "148/176",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "a3172511-1ca4-47ae-bd1d-73b4477879fb",
+        "name": "ดรีมบอล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S6aT",
+        "order": "061/069",
+        "type": "E",
+        "quantity": 4
+    },
+    {
+        "id": "ad27264a-dd80-47ca-97a1-dd960453a863",
+        "name": "น้ำผึ้ง",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S9aT",
+        "order": "062/067",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "5010c594-f355-4ae3-90c5-43ecc273fba1",
+        "name": "ไอศกรีมลุ้นโชค",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S7RT",
+        "order": "056/067",
+        "type": "E",
+        "quantity": 4
+    },
+    {
+        "id": "fa67a448-98e7-4464-b575-4ebc2d8eb7de",
+        "name": "ฟอสซิลลึกลับ",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S12T",
+        "order": "090/098",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "96542497-1d3d-40f5-ac8a-1ca1e3e7564b",
+        "name": "ฟอสซิลลึกลับ",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S10PT",
+        "order": "061/067",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "fbe6c507-3502-49b3-8c62-4bdcd1a4ea94",
+        "name": "ฟอสซิลลึกลับ",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "AS6b",
+        "order": "169/194",
+        "type": "B",
+        "quantity": 4
+    },
+    {
+        "id": "68c87f81-f23f-45de-b10a-ba53de17ab5a",
+        "name": "เซเรนา",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S11aT",
+        "order": "064/068",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "ad1b08a1-e06a-40ab-aeee-2667bbb4b45d",
+        "name": "เซเรนา",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SCFT",
+        "order": "167/176",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "1e227820-b8ee-4f59-bee6-04f0120e2017",
+        "name": "ความตั้งมั่นของฮิกานะ",
+        "energy": "",
+        "category": "โปเกมอน",
+        "box": "SCFT",
+        "order": "170/176",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "dacec246-8115-410f-baf2-b1e9cfa440bc",
+        "name": "เลเวลบอล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S12aT",
+        "order": "143/172",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "8719cd72-d056-4532-b4dc-4077eca35fe0",
+        "name": "เลเวลบอล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "S8bT",
+        "order": "141/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "7fdc7505-02d4-487d-9ced-1e1d6f9b5e3c",
+        "name": "หินปิดผนึกพงไพร",
+        "energy": "",
+        "category": "ไอเท็มติดโปเกมอน",
+        "box": "S12T",
+        "order": "092/098",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "03fc11af-c6e3-4a81-9821-decf4a8ead08",
+        "name": "สเก็ตพาร์ก",
+        "energy": "",
+        "category": "สเตเดียม",
+        "box": "S8T",
+        "order": "099/100",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "d7a251c9-b6f7-49fe-aaaa-7a9bf302f110",
+        "name": "ไฮเปอร์บอล",
+        "energy": "",
+        "category": "ไอเท็ม",
+        "box": "SCFT",
+        "order": "150/176",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "8496c95e-d1da-4006-88e9-3781d216ed4f",
+        "name": "แอปปริว",
+        "energy": "Dragon",
+        "category": "โปเกมอน",
+        "box": "S7RT",
+        "order": "050/067",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "36fe4d87-eb45-4a01-95bc-6644a395803d",
+        "name": "โคโรท็อก",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "174/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "dc3aa768-f172-4fea-88c5-5dd02e18f427",
+        "name": "ลีเฟีย VStar",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "210/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "9b096c8c-62c0-407c-97b5-2b44a2a5754f",
+        "name": "บีดารุ",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "200/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "bc9f435c-a31b-4a2c-8f3c-f20f11df503d",
+        "name": "โซโรอาร์ค",
+        "energy": "Darkness",
+        "category": "โปเกมอน",
+        "box": "S6aT",
+        "order": "050/069",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "f4c46fba-8bf6-4356-83b2-b66c1c1f5884",
+        "name": "ทามันทูล่า",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "007/078",
+        "type": "G",
+        "quantity": 4
+    },
+    {
+        "id": "093c6824-f5de-441f-b53f-81f042f97ace",
+        "name": "วาไนเดอร์ ex",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "008/078",
+        "type": "G",
+        "quantity": 4
+    },
+    {
+        "id": "ed3824f4-d174-4ce8-8d59-5b8fee5a7a7d",
+        "name": "เจ้าหนูกางเกงขาสั้น",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SVALT",
+        "order": "019/021",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "ca9f7f91-d520-4ba8-b621-c2cced150d68",
+        "name": "เจ้าหนูกางเกงขาสั้น",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SVAMT",
+        "order": "021/023",
+        "type": "G",
+        "quantity": 3
+    },
+    {
+        "id": "831d0e6c-1c96-4cd6-b568-681a2bf86201",
+        "name": "เมลอน",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S8bT",
+        "order": "161/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "44457e17-c62b-4d5a-9753-3b00039e0c0b",
+        "name": "เมลอน",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12aT",
+        "order": "162/172",
+        "type": "E",
+        "quantity": 3
+    },
+    {
+        "id": "36c70223-e41c-4bfe-aca8-84dd408f2574",
+        "name": "นักเต้น",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S8T",
+        "order": "097/100",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "d9fa8e63-d2f4-42f9-a27b-11481bd72691",
+        "name": "ไค",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S10PT",
+        "order": "064/067",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "97506c1b-c4d9-4eec-adfb-992f23ab8eba",
+        "name": "ไค",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12aT",
+        "order": "149/172",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "f0ad72d4-81ad-42d4-baa2-17e085bd678c",
+        "name": "คำสั่งของบอส",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SCFT",
+        "order": "172/176",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "93faf363-3305-4897-955b-c38f241b428c",
+        "name": "ความใส่ใจของเซเรน",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12aT",
+        "order": "156/172",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "064cab1d-b625-46de-92c6-4d9d4699b177",
+        "name": "โจรสาว 3 พี่น้อง",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S10aT",
+        "order": "070/071",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "cf74ec09-3926-4e5e-88d5-9b54e7c231d2",
+        "name": "ซุซุนะ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12T",
+        "order": "095/098",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "b3102218-9046-4ad9-ab37-0c947f72f733",
+        "name": "ซานา",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S7RT",
+        "order": "063/067",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "f8491d5f-5c3e-4b1a-aa3b-a8e4bd87dab6",
+        "name": "ซานา",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SCFT",
+        "order": "162/176",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "175c0c2e-d5ce-4fc7-a88c-cdc12ab61726",
+        "name": "ผู้ตัดสิน",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "AS3D",
+        "order": "018/022",
+        "type": "B",
+        "quantity": 1
+    },
+    {
+        "id": "13c0cb90-7386-4d7b-8199-483565c3c560",
+        "name": "สปาร์ก",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S10bT",
+        "order": "069/071",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "d939619b-bea7-4e68-b9d1-3d5f9696b405",
+        "name": "แคนเดลา",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S10bT",
+        "order": "068/071",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "2c8b7992-b0f4-40dc-9777-6b560a7bbd16",
+        "name": "พวกพ้องในฮิซุย",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12aT",
+        "order": "160/172",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "91d31e53-50ed-4004-a5ad-8104a2c356f7",
+        "name": "พวกพ้องในกาลาร์",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S8bT",
+        "order": "149/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "1498aabd-08bb-4188-91e1-b1f3e0acd622",
+        "name": "พวกพ้องในชินโอ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12aT",
+        "order": "154/172",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "b75b3d49-927a-4aee-8ec9-3e1c6bac14ec",
+        "name": "การสนับสนุนของฮามานะ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S9T",
+        "order": "096/100",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "44968ec1-accc-4ccf-8903-c58e54155dd6",
+        "name": "พิโอนี",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S8bT",
+        "order": "156/184",
+        "type": "E",
+        "quantity": 3
+    },
+    {
+        "id": "508049d6-13b9-47b9-a17d-f3598ba1bdc5",
+        "name": "วาตารุ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12T",
+        "order": "096/098",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "7be299c3-089c-4ed7-85e2-a014d4f3677d",
+        "name": "บลองช์",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S10bT",
+        "order": "070/071",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "271061d4-2d26-47ff-a1ab-8bf77793615d",
+        "name": "อาซุนะ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S6HT",
+        "order": "065/070",
+        "type": "E",
+        "quantity": 4
+    },
+    {
+        "id": "2293c2a9-2050-4342-9df8-f7a311ed09c0",
+        "name": "เนโม",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SVAWT",
+        "order": "022/023",
+        "type": "G",
+        "quantity": 4
+    },
+    {
+        "id": "9ecba3be-dfcc-4806-8d85-1992f5954209",
+        "name": "เนโม",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SVALT",
+        "order": "020/021",
+        "type": "G",
+        "quantity": 4
+    },
+    {
+        "id": "c569a53d-bfe1-4d50-9ea8-114458a499c1",
+        "name": "ชิมาโบชิ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S9aT",
+        "order": "064/067",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "fc66ea1b-6cc3-4609-b265-fa2ac23e7b16",
+        "name": "ซาคุยะ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S6KT",
+        "order": "066/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "c6820e0e-0edb-4b96-be9c-d926c8bdde0d",
+        "name": "ศาสตราจารย์เบอร์เนต",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "PROMO",
+        "order": "069/S-P",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "705f55b2-d9c4-42f3-8a85-70b17dee1213",
+        "name": "เมลิซซา",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S11T",
+        "order": "098/100",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "486c841f-73b8-4066-a33d-e91eb0ae1f21",
+        "name": "คุณหนู",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S11T",
+        "order": "096/100",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "473e5f66-711f-4498-afdd-c27c1261a850",
+        "name": "มาสเตอร์",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S8bT",
+        "order": "159/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "762d828a-b2ae-4048-a57f-31030a1e8864",
+        "name": "ประกายแสงของคามิสึเระ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12aT",
+        "order": "150/172",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "f2639f47-81da-4371-8192-9e48388a13e4",
+        "name": "ประกายแสงของคามิสึเระ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S8T",
+        "order": "096/100",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "39566ab3-2d4e-45dc-b8b7-a61bb58e563d",
+        "name": "ซาคุโระ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12aT",
+        "order": "152/172",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "1d95aee0-478f-4595-9dc6-111b5f1c5cf3",
+        "name": "ความทะเยอทะยานของชิโรนะ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SCFT",
+        "order": "165/176",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "e95c13f2-524d-4be6-980c-682f5b3ff030",
+        "name": "โวโล",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S10aT",
+        "order": "067/071",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "058da844-d222-4730-8fe9-b58f32a8d1f2",
+        "name": "คาเก็ตสึ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S8T",
+        "order": "095/100",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "3e3717b9-d806-4ae2-b180-57e09c361578",
+        "name": "สาวน้อยนักเลียนแบบ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S7DT",
+        "order": "065/067",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "de326087-2d1d-43ba-b670-52203d0d8b06",
+        "name": "สาวน้อยนักเลียนแบบ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "AS4b",
+        "order": "175/178",
+        "type": "B",
+        "quantity": 1
+    },
+    {
+        "id": "675a09d0-8e43-41a8-9eb5-c5502d455ff0",
+        "name": "กองเชียร์ของแก๊งเยล",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SCET",
+        "order": "151/173",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "e5526d3e-85b6-4bbd-8856-4c4e6384e5c4",
+        "name": "ลูกสมุนแก๊งสตาร์",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SV1ST",
+        "order": "075/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "2432b2bc-9e68-4a59-84b0-fd0979065852",
+        "name": "คัทลียา",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SCCT",
+        "order": "143/172",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "ac1b69a3-0656-4622-9a6a-429084e68ed1",
+        "name": "พ็อดกับเดนโตะกับคอร์น",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S8T",
+        "order": "098/100",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "e174fbf1-2bcd-496d-a7e4-bd0b7deb5a29",
+        "name": "การตั้งพบของนักผจญภัย",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S8bT",
+        "order": "157/184",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "51691448-7db3-4674-937f-1d81aa1b9064",
+        "name": "จินได",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12T",
+        "order": "094/098",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "fe1f72b6-2aa7-4451-b15f-c35dd40db011",
+        "name": "มิคุริ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S11aT",
+        "order": "066/068",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "08068ad8-56fc-48ff-8234-a0a14d8e27aa",
+        "name": "งานวิจัยของศาสตราจารย์ (ศาสตราจารย์โอลิม)",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SVAMT",
+        "order": "023/023",
+        "type": "G",
+        "quantity": 3
+    },
+    {
+        "id": "9006e7d2-021f-44d8-a39c-1f6a3080a2c1",
+        "name": "เซกิ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S12aT",
+        "order": "155/172",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "b3fa8ce4-a82b-4e69-a7a5-9b80bb19b128",
+        "name": "ความทะนงตนของแมรี",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SCET",
+        "order": "160/173",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "4e967c86-3516-4a4b-9f06-e8be4df70c39",
+        "name": "ซินเนีย",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SVALT",
+        "order": "017/021",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "19e16141-a213-4779-a397-871ce50491b5",
+        "name": "หมอ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S6HT",
+        "order": "066/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "c684aa8d-3deb-463d-b03b-e027cdcde1e3",
+        "name": "คาเอเดะ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SV1VT",
+        "order": "074/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "99fcd655-8ade-4ec8-8c4a-9df76b463179",
+        "name": "ชิบะ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S5IT",
+        "order": "066/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "d7bc8091-d13b-4064-b502-e2f687be7bfd",
+        "name": "ชิบะ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SCBT",
+        "order": "136/156",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "7e7f4ccf-603b-43da-843b-65b9fe0e5838",
+        "name": "ชิบะ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S8bT",
+        "order": "153/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "25693c50-4b8d-40e3-a4b4-1036500fecc0",
+        "name": "โบตั๋น",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SV1ST",
+        "order": "077/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "dd8e53aa-cbaf-4b38-91eb-d94935d98f1d",
+        "name": "คอร์นีสู้สุดใจ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S5RT",
+        "order": "066/070",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "e830e991-9e21-4eab-a860-39cdc28288c6",
+        "name": "เด็กนักเรียนชาย",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S7RT",
+        "order": "064/067",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "ab58fa12-d39c-4699-a933-1d28f391ee3c",
+        "name": "เด็กนักเรียนหญิง",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S7DT",
+        "order": "064/067",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "eb6ceef5-1ed0-46bf-88e9-5ceb27ff3542",
+        "name": "ซุซุกิ",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "S10aT",
+        "order": "068/071",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "d8bb4550-9f51-4025-becf-7f72316b0461",
+        "name": "ศาสตราจารย์ลาเวน",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "PROMO",
+        "order": "096/S-P",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "6ea51d2a-cbe4-4be6-b79e-6dc5c9f9397f",
+        "name": "จุน",
+        "energy": "",
+        "category": "ซัพพอร์ต",
+        "box": "SCFT",
+        "order": "164/176",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "855920e5-9ef0-4738-9145-6a2203e60529",
+        "name": "ฮิซุย ไดเคนคิ V",
+        "energy": "Darkness",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "086/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "e2e5323d-095f-46a1-bce4-b74cf5e1e02d",
+        "name": "กาลาร์ ไฟเยอร์ V",
+        "energy": "Darkness",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "080/172",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "6274878d-bdf9-4619-9a2a-a47c60e9a5c5",
+        "name": "กาลาร์ ยาโดคิง V",
+        "energy": "Darkness",
+        "category": "โปเกมอน",
+        "box": "S5aT",
+        "order": "046/070",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "85f1f621-6ae8-4502-8334-7c472a62f935",
+        "name": "กาลาร์ ยาโดคิง VMax",
+        "energy": "Darkness",
+        "category": "โปเกมอน",
+        "box": "S5aT",
+        "order": "047/070",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "d2422ca5-541e-4a5e-8558-a7d3732e73cf",
+        "name": "ฮิซุย นูเมลกอน V",
+        "energy": "Dragon",
+        "category": "โปเกมอน",
+        "box": "S10aT",
+        "order": "056/071",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "299bf150-242b-4cc8-8b1f-be633b6d749d",
+        "name": "คิวเรม V",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "029/100",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "cfccdb5c-cf6a-4c83-b1d8-8a1d098001b9",
+        "name": "ฮิซุย โซโรอาร์ค V",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "128/172",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "d50d5795-6884-4f55-b211-8c6dc495186f",
+        "name": "ฮิซุย โซโรอาร์ค VStar",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "129/172",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "a1c54a6f-dd2b-4e06-ba6a-e5a4455cc746",
+        "name": "อมาโจ V",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S8T",
+        "order": "011/100",
+        "type": "E",
+        "quantity": 3
+    },
+    {
+        "id": "9db8f210-d721-47ca-8079-0e2b57844970",
+        "name": "จาโลดา V",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "005/068",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "080dc70c-0bae-44fe-b323-48447d724fb9",
+        "name": "จาโลดา VStar",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "006/068",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "335c02bf-c783-439f-9886-fa8a6e789230",
+        "name": "อาร์เซอุส V",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "126/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "0dcad15b-cfb7-410b-9573-18d01055f10f",
+        "name": "อาร์เซอุส V",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "127/172",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "a7847b21-599c-4aae-84bf-c2490c9a06ee",
+        "name": "ลีเฟีย VStar",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "012/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "6311be0e-808b-46c0-8a67-95d66f4eeafa",
+        "name": "ลีเฟีย VStar",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "SCFT",
+        "order": "007/176",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "900ccf95-0474-4dea-894d-0f8611199568",
+        "name": "จิบะคอยล์ ex",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "028/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "39cd32ad-355e-4f65-82ef-727c627d018e",
+        "name": "จิบะคอยล์ V",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S10aT",
+        "order": "079/071",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "632303ee-5a23-49e2-8d4c-02d8f29bdc0b",
+        "name": "จิบะคอยล์ VStar",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S10aT",
+        "order": "017/071",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "57201fad-f880-408c-97bb-4977abfcddf7",
+        "name": "เอรูเรโด V",
+        "energy": "Fighting",
+        "category": "โปเกมอน",
+        "box": "S10aT",
+        "order": "040/071",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "ec3d7ca9-c747-4e34-b43e-1a1f83f1fd3d",
+        "name": "พเทอรา V",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "056/100",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "288f9b66-1d0a-453c-912b-cd06b09b7ff9",
+        "name": "ฮิซุย วินดี V",
+        "energy": "Fighting",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "046/098",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "18cabc06-7233-45af-b86b-11a9b5210ffc",
+        "name": "วินดี ex",
+        "energy": "Fire",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "016/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "2487106b-ceac-46cb-a9e7-1564e62a7004",
+        "name": "ลิซาร์ดอน VStar",
+        "energy": "Fire",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "014/172",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "874159ab-f929-47b3-9fce-469d1eee9c46",
+        "name": "เอ็นเต V",
+        "energy": "Fire",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "019/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "fb110550-d3df-4548-81f4-2b13333d99ee",
+        "name": "มาฟ็อกซี V",
+        "energy": "Fire",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "017/100",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "3882e824-ee0a-4e40-bb60-8c2444bf110c",
+        "name": "เรชิรัม V",
+        "energy": "Fire",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "015/068",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "79ff35b2-b0ff-416e-9c13-9d14bca09016",
+        "name": "เรจิกิกัส V",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "124/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "f9aee281-cb03-45ef-8139-5d21ad7cf018",
+        "name": "เรจิกิกัส VStar",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "125/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "944503ce-2e45-408e-a1e2-17f198bed49a",
+        "name": "พีเจียต V",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "082/100",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "0a25a02f-c409-46ae-a5b2-e304a63d8186",
+        "name": "เค็คคิง V",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S10bT",
+        "order": "059/071",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "f9b980fe-54d9-495d-aba5-7850e3b25c83",
+        "name": "โฮโอ V",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "055/068",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "6a13a872-1877-4b9f-a3b3-9160c721f55d",
+        "name": "ดีอัลกาดั้งเดิม V",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "100/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "004fdd92-f30c-4135-83f3-7f237b608775",
+        "name": "ซามาเซนตา",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "F",
+        "type": "103/172",
+        "quantity": 1
+    },
+    {
+        "id": "6b4b7cd0-16db-411c-9967-adf254034f9b",
+        "name": "เมลเมทัล V",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S10bT",
+        "order": "047/071",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "b24656f0-edd3-48c6-9ecd-2e6c2b1e8c70",
+        "name": "เมลเมทัล VStar",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S10bT",
+        "order": "048/071",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "7a8f5c51-091d-4db4-9e9d-b43b1ffdea14",
+        "name": "มาเกียนา V",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "F",
+        "type": "079/068",
+        "quantity": 1
+    },
+    {
+        "id": "c1fcb3e0-c37e-4124-9a9f-896dac9cfd8c",
+        "name": "รอยล้อเหล็ก ex",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "058/078",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "e421328e-aa1c-4ab6-87b1-af2d72bf20a9",
+        "name": "เกโนเซ็กท์ V",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "102/172",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "29f1b9eb-2db4-4971-908a-29241cbb71a8",
+        "name": "เกโนเซ็กท์ V",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S8T",
+        "order": "069/100",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "a7c44097-3856-425a-9ff8-85081bbbe2f6",
+        "name": "มาเกียนา V",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "051/068",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "a34ed1f9-7ced-491d-b1ae-e62a7395186d",
+        "name": "ลีเฟีย V",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "SCFT",
+        "order": "006/176",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "42de9fea-a6cc-4af4-87ca-4209bc80c933",
+        "name": "ฮิซุย เดรเดีย V",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S10DT",
+        "order": "007/067",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "98d90883-23d7-4de4-9ee6-69f470c9b9d4",
+        "name": "ฮิซุย เดรเดีย VStar",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S10DT",
+        "order": "008/067",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "79a876ab-5df3-403b-b418-3e25cad3dc99",
+        "name": "สเปียร์ V",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S10PT",
+        "order": "001/067",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "1e147ff1-5957-4ed2-b747-1c3faccb6fbc",
+        "name": "ฮิซุย มารุมายน์ V",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "005/172",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "e14518c8-3f3d-4861-a663-219b6ba383af",
+        "name": "กิราตินา V",
+        "energy": "Dragon",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "110/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "436bc20d-cd4d-4de1-af5c-24a8765670be",
+        "name": "กิราตินา V",
+        "energy": "Dragon",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "080/100",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "910d4995-8eb1-4ecb-93cf-28bdc3f86f73",
+        "name": "กิราตินา VStar",
+        "energy": "Dragon",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "111/172",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "168aba6c-fb90-45c8-8041-0dc00a354442",
+        "name": "กิราตินา VStar",
+        "energy": "Dragon",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "081/100",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "97322a1c-ac90-4c5e-b989-3e36d37d49b0",
+        "name": "อโลลา โรคอน V",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "022/068",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "9712904d-a3cc-4359-b2a6-64d09ded1115",
+        "name": "อโลลา โรคอน VStar",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "023/068",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "c2c46d33-bede-421a-a384-b35d70c6e4b6",
+        "name": "พัลเกียดั้งเดิม V",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "027/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "cd2ad0d5-5cac-417d-b161-d39d8ceabae0",
+        "name": "พัลเกียดั้งเดิม VStar",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "028/172",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "6a7cc94e-6a14-47ee-95bf-5878d81e3a51",
+        "name": "ออมสตาร์ V",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "018/098",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "64946945-808d-4290-bd75-4007e789a91e",
+        "name": "ซุยคูน V",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "024/172",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "4376cf7d-2952-447c-baad-a121b2cda750",
+        "name": "เลิฟโทลอส V",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S10aT",
+        "order": "031/071",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "1087482b-b5af-4579-87fa-c54e3ebcf33d",
+        "name": "นิมเฟีย V",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S6aT",
+        "order": "040/069",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "1071cfba-a829-4c29-b15d-44bcbb45e528",
+        "name": "บัดเดร็กซ์ ร่างขี่ม้าดำ V",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S8bT",
+        "order": "082/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "6b8e68da-e5ca-4b20-93c1-0e7a02d9b731",
+        "name": "คูชีท V",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "039/068",
+        "type": "",
+        "quantity": 4
+    },
+    {
+        "id": "6badf40a-3d6b-4c61-b247-00c70f6b2ac0",
+        "name": "คูชีท VStar",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "040/068",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "07db5b47-5e31-4625-8912-2e160b22c4ab",
+        "name": "เอลฟุน V",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S9T",
+        "order": "049/100",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "c88e31ce-8132-4d8d-adec-0a410f44a73d",
+        "name": "อันโนน VStar",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "036/098",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "3314fcab-644b-4b80-83eb-bbd3888d0229",
+        "name": "มิว VMax",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "054/172",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "b023beda-e90b-4fb3-8fda-0fb5f26a08c5",
+        "name": "ซาเชียน V",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "067/172",
+        "type": "E",
+        "quantity": 1
+    }
+]

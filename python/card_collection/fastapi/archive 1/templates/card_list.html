@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Card List</title>
+</head>
+<body>
+  <h1>Card List</h1>
+  <div id="filter">
+    <input type="text" id="name-filter" placeholder="Filter by name...">
+    <div>
+      <label>
+          <input type="radio" name="category-filter" value="All" checked>
+          All
+      </label>
+      {% for category in categories %}
+      <label>
+          <input type="radio" name="category-filter" value="{{ category }}">
+          {{ category }}
+      </label>
+      {% endfor %}
+    </div>
+  </div>
+  <hr>
+  <table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Energy</th>
+            <th>Category</th>
+            <th>Box</th>
+            <th>Order</th>
+            <th>Type</th>
+            <th>Quantity</th>
+        </tr>
+    </thead>
+    <tbody id="card-list">
+        {% for card in cards %}
+        <tr>
+            <td>{{ card.id }}</td>
+            <td>{{ card.name }}</td>
+            <td>{{ card.energy }}</td>
+            <td>{{ card.category }}</td>
+            <td>{{ card.box }}</td>
+            <td>{{ card.order }}</td>
+            <td>{{ card.type }}</td>
+            <td>{{ card.quantity }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+  </table>
+  <script src="{{ url_for('static', path='js/card_list.js') }}"></script>
+</body>
+</html>
