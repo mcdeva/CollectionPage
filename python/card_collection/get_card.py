@@ -179,7 +179,7 @@ def create_ui():
     new_card_box_label = tk.Label(new_card_frame, text="Box:")
     new_card_box_label.grid(row=1, column=0)
 
-    box = ["SV1ST", "SV1VT", "S10aT", "S10bT", "S10DT", "S10PT", "S11T", "S11aT", "S12T", "S12aT", "PROMO",
+    box = ["SV1ST", "SV1VT", "SV1aT", "S10aT", "S10bT", "S10DT", "S10PT", "S11T", "S11aT", "S12T", "S12aT", "PROMO",
         "S5aT", "S5RT", "S5IT", "S6aT", "S6HT", "S6KT", "S7RT", "S7DT", "S8T", "S8aT", "S8bT", "S9T", "S9aT",
         "SVAWT", "SVALT", "SVAMT", "AS1a", "AS1D", "AS2a", "AS2b", "AS2D", "AS3b", "AS3D", "AS4b", "AS4D", "AS5b", "AS5D", "AS6a", "AS6b",
         "SCAT", "SCBT", "SC1aT", "SC1bT", "SC3aT", "SC3bT", "SCCT", "SCDT", "SC1DT", "SCET", "SCFT",
