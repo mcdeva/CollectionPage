@@ -1687,7 +1687,7 @@
         "box": "S5IT",
         "order": "025/070",
         "type": "E",
-        "quantity": 1
+        "quantity": 2
     },
     {
         "id": "81f5ee17-6836-4279-adc4-90806bd3d8e5",
@@ -1857,7 +1857,7 @@
         "box": "PROMO",
         "order": "012/SV-P",
         "type": "G",
-        "quantity": 2
+        "quantity": 3
     },
     {
         "id": "6a147ad2-23ed-414a-a079-c91e12096f5d",
@@ -2147,7 +2147,7 @@
         "box": "SV1ST",
         "order": "023/078",
         "type": "G",
-        "quantity": 2
+        "quantity": 5
     },
     {
         "id": "732c57a0-61dd-4479-945e-bcb9d55bfd99",
@@ -2237,7 +2237,7 @@
         "box": "PROMO",
         "order": "135/S-P",
         "type": "F",
-        "quantity": 3
+        "quantity": 5
     },
     {
         "id": "6b0f443b-fa96-413c-a3b6-6cf111bb60e5",
@@ -2247,7 +2247,7 @@
         "box": "PROMO",
         "order": "134/S-P",
         "type": "F",
-        "quantity": 5
+        "quantity": 8
     },
     {
         "id": "8c6f4e74-cfd4-46ed-80d4-0a7a5f0d46fa",
@@ -2337,7 +2337,7 @@
         "box": "PROMO",
         "order": "018/SV-P",
         "type": "G",
-        "quantity": 2
+        "quantity": 3
     },
     {
         "id": "21417f98-6c74-4ea5-a49b-62c2e66db1f3",
@@ -3347,7 +3347,7 @@
         "box": "S6HT",
         "order": "065/070",
         "type": "E",
-        "quantity": 4
+        "quantity": 5
     },
     {
         "id": "2293c2a9-2050-4342-9df8-f7a311ed09c0",
@@ -6747,7 +6747,7 @@
         "box": "PROMO",
         "order": "112/S-P",
         "type": "F",
-        "quantity": 5
+        "quantity": 6
     },
     {
         "id": "0510458a-34d1-42c0-954c-958611778da5",
@@ -9187,7 +9187,7 @@
         "box": "S6HT",
         "order": "024/070",
         "type": "E",
-        "quantity": 1
+        "quantity": 2
     },
     {
         "id": "ad74dea3-da96-4ee4-a4d4-c3d06ed31971",
@@ -9207,7 +9207,7 @@
         "box": "SV1VT",
         "order": "034/078",
         "type": "G",
-        "quantity": 1
+        "quantity": 5
     },
     {
         "id": "fc29a914-ddff-4a5e-8302-141ee636a82f",
@@ -9217,7 +9217,7 @@
         "box": "SV1VT",
         "order": "032/078",
         "type": "G",
-        "quantity": 1
+        "quantity": 5
     },
     {
         "id": "18a528a2-a067-430d-8f9a-3d039ceff316",
@@ -9227,7 +9227,7 @@
         "box": "SV1ST",
         "order": "024/078",
         "type": "G",
-        "quantity": 1
+        "quantity": 3
     },
     {
         "id": "4a30b894-de91-4818-98ce-9ab3420c490c",
@@ -9307,7 +9307,7 @@
         "box": "S9T",
         "order": "077/100",
         "type": "F",
-        "quantity": 1
+        "quantity": 2
     },
     {
         "id": "a199e559-df55-45c7-9a9e-2e88cd68c8d4",
@@ -9317,7 +9317,7 @@
         "box": "SV1ST",
         "order": "067/078",
         "type": "G",
-        "quantity": 1
+        "quantity": 3
     },
     {
         "id": "e66e2612-a859-4302-8740-62c4ef4ce8cc",
@@ -9437,7 +9437,7 @@
         "box": "SV1ST",
         "order": "025/078",
         "type": "G",
-        "quantity": 1
+        "quantity": 3
     },
     {
         "id": "b02045c6-0e2e-42a4-88ef-a3d249d0455a",
@@ -9497,7 +9497,7 @@
         "box": "S8T",
         "order": "030/100",
         "type": "E",
-        "quantity": 3
+        "quantity": 6
     },
     {
         "id": "af104002-855d-4783-8261-7a721cce6e7c",
@@ -9507,7 +9507,7 @@
         "box": "S8T",
         "order": "031/100",
         "type": "E",
-        "quantity": 1
+        "quantity": 3
     },
     {
         "id": "cd6174af-6074-474d-9a17-ef03e628b7a2",
@@ -9517,7 +9517,7 @@
         "box": "S8T",
         "order": "033/100",
         "type": "E",
-        "quantity": 1
+        "quantity": 3
     },
     {
         "id": "b7555ec8-8fb5-4053-b28f-b110f36d03ab",
@@ -9527,7 +9527,7 @@
         "box": "S8T",
         "order": "037/100",
         "type": "E",
-        "quantity": 1
+        "quantity": 2
     },
     {
         "id": "e2a1f963-35c2-4711-bba0-63532bb48275",
@@ -9537,7 +9537,7 @@
         "box": "S8T",
         "order": "036/100",
         "type": "E",
-        "quantity": 2
+        "quantity": 4
     },
     {
         "id": "86c58334-a2f3-494f-9f7d-7b29bc944266",
@@ -9547,7 +9547,7 @@
         "box": "S8T",
         "order": "032/100",
         "type": "E",
-        "quantity": 2
+        "quantity": 4
     },
     {
         "id": "88015fe5-3815-4e46-93e4-c3580045468e",
@@ -9717,7 +9717,7 @@
         "box": "S8T",
         "order": "087/100",
         "type": "E",
-        "quantity": 3
+        "quantity": 4
     },
     {
         "id": "eedbcaa2-b952-4570-b697-34c761073d24",
@@ -9787,7 +9787,7 @@
         "box": "S8T",
         "order": "068/100",
         "type": "E",
-        "quantity": 2
+        "quantity": 3
     },
     {
         "id": "1bf8bd3f-76d8-488a-b47e-114c58e770a2",
@@ -11957,7 +11957,7 @@
         "box": "S12T",
         "order": "032/098",
         "type": "F",
-        "quantity": 1
+        "quantity": 4
     },
     {
         "id": "0a5ae2e5-bb60-4169-a890-1eba46d22680",
@@ -12337,7 +12337,7 @@
         "box": "S10aT",
         "order": "077/071",
         "type": "F",
-        "quantity": 1
+        "quantity": 2
     },
     {
         "id": "f054652b-dc44-4934-89c9-d89abbc208ea",
@@ -12377,7 +12377,7 @@
         "box": "S11aT",
         "order": "074/068",
         "type": "F",
-        "quantity": 1
+        "quantity": 2
     },
     {
         "id": "5a9e0ab4-6765-47e8-86af-70fd91c58c6b",
@@ -12687,7 +12687,7 @@
         "box": "S12aT",
         "order": "118/172",
         "type": "E",
-        "quantity": 2
+        "quantity": 3
     },
     {
         "id": "a4ceaa05-3b25-4e22-ac8b-67351fd2e731",
@@ -12697,7 +12697,7 @@
         "box": "S12aT",
         "order": "120/172",
         "type": "E",
-        "quantity": 1
+        "quantity": 5
     },
     {
         "id": "9d8d2b49-d6ff-460b-855a-94f351fc2329",
@@ -12717,7 +12717,7 @@
         "box": "S12aT",
         "order": "094/172",
         "type": "F",
-        "quantity": 1
+        "quantity": 7
     },
     {
         "id": "57b31ced-6091-4c35-9048-aa284c052e1b",
@@ -12787,7 +12787,7 @@
         "box": "S12aT",
         "order": "097/172",
         "type": "F",
-        "quantity": 3
+        "quantity": 8
     },
     {
         "id": "a5aa3c35-a816-4a9e-a7db-b4733058c5ff",
@@ -13998,5 +13998,1665 @@
         "order": "002/098",
         "type": "F",
         "quantity": 3
+    },
+    {
+        "id": "1b3a1c0f-598a-4304-a255-d867022aaa6e",
+        "name": "อโลลา นัชชี V",
+        "energy": "Grass",
+        "category": "โปเกมอน",
+        "box": "PROMO",
+        "order": "100/S-P",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "0802c248-8c97-4787-912c-a66677f22aa1",
+        "name": "มานิวลา",
+        "energy": "Darkness",
+        "category": "โปเกมอน",
+        "box": "AS6a",
+        "order": "197/196",
+        "type": "C",
+        "quantity": 1
+    },
+    {
+        "id": "24501576-e9f1-4f53-8581-bf294b7e15bb",
+        "name": "ยามิคาราซึ",
+        "energy": "Darkness",
+        "category": "โปเกมอน",
+        "box": "S5IT",
+        "order": "042/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "23cb0625-cc49-463c-9fc2-ed6e40cadd65",
+        "name": "เนียโอนิกซ์",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S5IT",
+        "order": "026/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "94feaad3-bac0-4d78-9e40-184a5da2e731",
+        "name": "โอโคริซารุ",
+        "energy": "Fighting",
+        "category": "โปเกมอน",
+        "box": "S5IT",
+        "order": "029/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "04b473a5-c52d-4d37-aa95-8478046435f0",
+        "name": "โคโดรา",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S6HT",
+        "order": "049/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "5f202dbd-ad84-429e-949e-b4fb14b311cf",
+        "name": "ราลทซ์",
+        "energy": "Psychic",
+        "category": "โปเกมอน",
+        "box": "S6HT",
+        "order": "033/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "2cde0c6c-c4b1-4d06-be11-516d7b1c6249",
+        "name": "คาจิคอล",
+        "energy": "Water",
+        "category": "โปเกมอน",
+        "box": "S6HT",
+        "order": "025/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "27afa242-52c4-4bf0-b1a2-99ba243d1b04",
+        "name": "โอนิดริล",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S5IT",
+        "order": "056/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "34977abd-6521-49c7-b000-a19b1802ab6a",
+        "name": "วักคาเนซูมิ",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "064/078",
+        "type": "G",
+        "quantity": 4
+    },
+    {
+        "id": "a1e1d58a-1e70-4064-bb5c-a1639f1599fa",
+        "name": "วักคาเนซูมิ",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "065/078",
+        "type": "G",
+        "quantity": 4
+    },
+    {
+        "id": "50a0b157-6e10-4b51-86ce-5f38cd931800",
+        "name": "อิกคาเนซูมิ",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "066/078",
+        "type": "G",
+        "quantity": 4
+    },
+    {
+        "id": "a3ec35b3-c25f-433d-99a3-d83165ddcf50",
+        "name": "โมโตโทคาเงะ",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SVAWT",
+        "order": "010/023",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "a7ec2c2d-8448-4b82-a44a-5be7a6f598c2",
+        "name": "โมโตโทคาเงะ",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "068/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "1e2fb538-0f17-4f06-8401-a525740f1a1d",
+        "name": "ลัคกี",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "059/078",
+        "type": "G",
+        "quantity": 4
+    },
+    {
+        "id": "c5fa8d1f-ef08-44a2-9e47-e700566d0d58",
+        "name": "แฮปปีนาส",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "060/078",
+        "type": "G",
+        "quantity": 4
+    },
+    {
+        "id": "5f20ce44-657f-4729-99cc-b41d3b8efebc",
+        "name": "มุคคูรุ",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "063/078",
+        "type": "G",
+        "quantity": 4
+    },
+    {
+        "id": "66392fde-edf2-423a-b48a-98de73d421fb",
+        "name": "มุคูเบิร์ด",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "064/078",
+        "type": "G",
+        "quantity": 3
+    },
+    {
+        "id": "6681b0d3-f2da-443d-a891-3082eefe52cd",
+        "name": "มุคูฮอว์ก",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "065/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "0d230203-542a-42bc-ab05-ee8a6501156c",
+        "name": "อิเอซซัน",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "063/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "9fab9429-1ef1-426b-93ec-7639faae98d6",
+        "name": "โฮชิกะริสึ",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "061/078",
+        "type": "G",
+        "quantity": 3
+    },
+    {
+        "id": "9c5efdc1-819d-4cdb-96c1-16cce2b12641",
+        "name": "โยคุบะริสึ",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "062/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "7d1f881b-cad8-434b-a35e-d622461edddf",
+        "name": "อิคิริงโกะ",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "067/078",
+        "type": "G",
+        "quantity": 4
+    },
+    {
+        "id": "19856c58-1f0c-42d8-85cd-63fe100ee143",
+        "name": "กูร์ตง",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SVALT",
+        "order": "009/021",
+        "type": "G",
+        "quantity": 3
+    },
+    {
+        "id": "e30cf03b-37ba-40de-95b5-a044158eec1b",
+        "name": "กูร์ตง",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "066/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "0828b266-5370-4e73-bbdf-8d79134db4ed",
+        "name": "แซงกูส",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SVAWT",
+        "order": "008/023",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "ddfc7af4-aee9-45ab-b9ad-f967822a611a",
+        "name": "แซงกูส",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SV1ST",
+        "order": "062/078",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "e1700e1b-0d34-40e0-bc63-18295a6e5b52",
+        "name": "คลามิงโก้",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SVALT",
+        "order": "010/021",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "e7fe655e-a46c-4719-87db-83b430544615",
+        "name": "ทิลท์โท",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "056/068",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "7e29abb6-b0b1-4887-9349-1f5664216fc9",
+        "name": "ทิลทาลิส",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "057/068",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "f4b27725-ec7c-4d0a-8553-5f85395d0627",
+        "name": "พัทชีล",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "086/100",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "3bc88a27-ef68-469d-96df-8b4d7b6483f7",
+        "name": "บิปปา",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S10bT",
+        "order": "060/071",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "f192b8fc-0432-4841-aa84-41e2807e659e",
+        "name": "มิลแทงค์",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S9aT",
+        "order": "058/067",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "6a664c89-1a47-48b2-84f3-3e942ad331d3",
+        "name": "มิลแทงค์",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "119/172",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "2a1a2645-fc1b-499b-952c-8dda24d62384",
+        "name": "มิมิโรล",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "087/100",
+        "type": "F",
+        "quantity": 5
+    },
+    {
+        "id": "1a620e94-e0e2-4217-a8a5-e292251b3ac1",
+        "name": "มิมิล็อป",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "088/100",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "d6662fa1-e17f-41c8-a11c-41a09cf971d3",
+        "name": "บัฟฟรอน",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "089/100",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "02fd5534-b403-4ca7-a389-e8d324e49de5",
+        "name": "โพรีกอน",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "083/100",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "210adea3-3b81-4d0e-bec0-b6c305f50ff9",
+        "name": "โพรีกอน2",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "084/100",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "eab1ccd5-83bf-4f3f-8b56-24f64ec24e27",
+        "name": "โพรีกอน-แซด",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "085/100",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "4b17b169-2ae9-43a8-b477-0635d17ac1f0",
+        "name": "โดเบิล",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "054/068",
+        "type": "F",
+        "quantity": 8
+    },
+    {
+        "id": "7b634c06-0adc-4d7d-9a68-40af8fa2b193",
+        "name": "เอย์แพม",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S10aT",
+        "order": "059/071",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "221141e3-5739-4bdd-aa17-2dc4d9175f38",
+        "name": "โดเบิล",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SCFT",
+        "order": "131/176",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "d764fd37-1eaf-4d3a-828b-926f4e9a7ce1",
+        "name": "เมตามอน",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "117/172",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "1ae739c2-d811-4828-b604-3ce48668d162",
+        "name": "เมตามอน",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S10bT",
+        "order": "053/071",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "70d76c3b-283b-487a-885e-36c1bc85c475",
+        "name": "คาบิกอน",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S10aT",
+        "order": "058/071",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "6b62552f-3730-4f5e-89ad-76a8791582e6",
+        "name": "คาบิกอน",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S10bT",
+        "order": "056/071",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "28da95e7-ff6e-445a-adc3-543277e0d778",
+        "name": "จิลามี",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SCFT",
+        "order": "135/176",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "3e39e373-d6fc-4baf-bf95-6dba136b1efd",
+        "name": "จิลามี",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S9T",
+        "order": "085/100",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "d0022f60-77ae-4e43-8301-faf5592c3852",
+        "name": "เอย์แพม",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S10bT",
+        "order": "057/071",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "61c4b810-21cd-498c-b8be-4404bacde182",
+        "name": "ฮิเมกุมะ",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S10PT",
+        "order": "055/067",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "fa51447f-10bb-427f-9edd-db2011dec1ba",
+        "name": "ริงกุมะ",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S10PT",
+        "order": "056/067",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "4d6a40c3-b4d7-4533-9698-f6d477f7efed",
+        "name": "กาจิกุมะ",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S10PT",
+        "order": "057/067",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "6cd6e163-ba9a-42a6-8622-bdc8af00a4ad",
+        "name": "โปวาลุน",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SCFT",
+        "order": "132/176",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "61683dad-695b-464c-baf3-64422b40b07d",
+        "name": "เอเทโบธ",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S10bT",
+        "order": "058/071",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "1dbd0b07-0c97-4d4c-a9db-d5dbe12a4d34",
+        "name": "เพราป",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "058/068",
+        "type": "F",
+        "quantity": 8
+    },
+    {
+        "id": "68886e1d-c25f-4e65-a8cc-61fe9a000d26",
+        "name": "เชมิน",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SCFT",
+        "order": "134/176",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "fa409c45-14ce-4b9d-af13-f105987dd5c8",
+        "name": "เรจิกิกัส",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "123/172",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "519b6527-acf4-45a2-a0f1-c158595a7830",
+        "name": "ยาเรยูตัน V",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "088/098",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "4935fdcd-6b60-441b-8bf4-f09fff0ef404",
+        "name": "ยังกูส",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "086/098",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "76d4b738-f972-4d19-92e5-d27d3afbb52a",
+        "name": "เดคากูส",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "087/098",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "d94cff28-3b56-43b7-850c-4a09ab13bc28",
+        "name": "เชมิน",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "081/098",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "cb70f7ab-0a3c-45f7-a8d0-9e67f89b0746",
+        "name": "เคนเทารอส",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "078/098",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "a018ede7-e9e4-43f3-88f6-e5085c8d93db",
+        "name": "อีวุย",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S10PT",
+        "order": "054/067",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "f0d978ef-33ee-47a3-badd-f4f460adf9bd",
+        "name": "อีวุย",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S10bT",
+        "order": "054/071",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "c987d0a1-89dd-4f2e-88cb-cefd62bf4402",
+        "name": "วาชิบอน",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "084/098",
+        "type": "F",
+        "quantity": 6
+    },
+    {
+        "id": "87c599be-d10c-4be7-b255-32fbdea77a2e",
+        "name": "ฮิซุย วอร์เกิล",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S10DT",
+        "order": "056/067",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "f7c12534-47a0-4c01-9c99-cc75ba373ef0",
+        "name": "ฮิซุย วอร์เกิล",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "085/098",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "098107b6-7d54-4546-b5d5-68df56b47c8c",
+        "name": "ยายาโคมะ",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "090/100",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "af3375ff-212d-4417-8bd4-f62336e4e42b",
+        "name": "เอเทโบธ",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S10aT",
+        "order": "060/071",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "cc392fd9-62d7-4874-8261-af2efa8fa639",
+        "name": "ลัคกี",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S10bT",
+        "order": "051/071",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "d2d4f171-3c8b-4204-859b-d52d07f2fd4f",
+        "name": "แฮปปีนาส",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S10bT",
+        "order": "052/071",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "38a5a956-cf42-467e-9b9b-bb849aa264ec",
+        "name": "อาเคน",
+        "energy": "Colorless",
+        "category": "พลังงาน",
+        "box": "S12T",
+        "order": "082/098",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "f70ea2d4-c606-499f-8000-06a035855143",
+        "name": "อาเคโอส",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "083/098",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "766ec76a-5abe-42fe-9444-2331c0cd7825",
+        "name": "จิจีลอน",
+        "energy": "Colorless",
+        "category": "โปเกมอน",
+        "box": "SCFT",
+        "order": "139/176",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "bb4025bb-231b-4dd8-8623-bce6f06e54e8",
+        "name": "เมรีป",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "036/172",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "666e4411-a1e5-463c-a119-6b11e524f842",
+        "name": "เมรีป",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S8bT",
+        "order": "051/184",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "b4c743e1-e966-4a89-b973-23cae2a60519",
+        "name": "โมโคโค",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "037/172",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "0fa7c816-db03-4f89-8ba6-9633dc130c0c",
+        "name": "โมโคโค",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S7RT",
+        "order": "027/067",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "6e795ad2-98bc-4de8-8918-16f130cbf3b9",
+        "name": "โมโคโค",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S8bT",
+        "order": "052/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "9e6e8cb8-0591-46bd-abb9-af2e807fe749",
+        "name": "โคลิงก์",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "026/098",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "fbf81f92-6fa1-484d-aa90-5d11d99c12eb",
+        "name": "ลุคซิโอ",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "027/098",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "4aff1394-b1c4-4f30-a685-e9d35fbefe1a",
+        "name": "เร็นโทรา",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "028/098",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "809ae0fc-b10d-42ab-9b28-fc8a813b73db",
+        "name": "มักเกียว",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "029/098",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "0c925010-44d9-4aee-87f5-fc2ebfc326e4",
+        "name": "พิคาชู VMax",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S10aT",
+        "order": "014/071",
+        "type": "F",
+        "quantity": 5
+    },
+    {
+        "id": "ce123423-8b54-4c84-974d-83c0cdc9e32a",
+        "name": "พิคาชู VUnion-1",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S10bT",
+        "order": "028/071",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "87b71b7c-0c7c-4892-8fbf-19566d89b4e3",
+        "name": "พิคาชู",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "024/098",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "dcee68a1-1e54-4f9e-8e4b-4aec69f5cafe",
+        "name": "พิคาชู",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S10bT",
+        "order": "027/071",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "943599cf-7aaa-4350-ba7d-98b5a844c39c",
+        "name": "ไรชู",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S10aT",
+        "order": "015/071",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "4a4100c2-c539-4b81-909c-61fa4238ecee",
+        "name": "ไรชู",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "025/098",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "b41ea7ed-5fa6-410b-9397-b6a4ffbf086f",
+        "name": "เรจิเอเลคิ",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "045/172",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "a9ee1af7-28c0-484b-9c4f-82514e31b154",
+        "name": "เรจิเอเลคิ",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S7RT",
+        "order": "033/067",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "b120ea0d-bd26-4874-8ea9-2546ddd2ac22",
+        "name": "เอลิคิเทล",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "030/098",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "fdd4f743-4cdc-4c82-8e6a-bec31b3506e9",
+        "name": "เอเลซาร์ด",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "031/098",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "a60c83a9-ccdc-4120-aaf9-fad81fcba21c",
+        "name": "โรตอม",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S10aT",
+        "order": "018/071",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "5f31ec54-3386-4571-a3a0-bb0cebca2d75",
+        "name": "เอมอนกา",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "038/100",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "cfe60e19-f147-44d1-bf01-2b08e02f8b33",
+        "name": "ไมนัน",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S7RT",
+        "order": "030/067",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "e9737d38-d2b0-4cb1-98ee-5e2d24fc8d88",
+        "name": "พาจิริซึ",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S9T",
+        "order": "040/100",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "27843045-687a-44cc-82b0-38595646224c",
+        "name": "เอเลบู",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "034/172",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "57e9e671-22d6-4889-b032-71b6261b06e3",
+        "name": "เอเลคิเบิล",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "035/172",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "4644f7ee-23ae-4565-8425-89dc0fb9a0c1",
+        "name": "เอเลซัน",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "043/172",
+        "type": "E",
+        "quantity": 2
+    },
+    {
+        "id": "20bba135-a3d7-40e2-976e-ac0eb334eab6",
+        "name": "สตรินเดอร์",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "044/172",
+        "type": "E",
+        "quantity": 3
+    },
+    {
+        "id": "c35a8f0c-fdfe-44c8-85f9-f610fe31626f",
+        "name": "ชิบิชิราซึ",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "039/100",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "e11a5ec7-4961-4b4f-8546-5d9769f17462",
+        "name": "ชิบิบีล",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "040/100",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "6a5434f2-e538-4662-acb1-522365a701e2",
+        "name": "ชิบิรูดอน",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "041/100",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "ba041512-0d02-4497-803b-8e0ad87faf22",
+        "name": "ชอนชี",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "035/100",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "bb575d34-86bd-4bfa-84a2-c3a11dc69804",
+        "name": "แลนเทอร์น",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "036/100",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "c1dcb499-e5dc-4153-9873-7e3395cc9626",
+        "name": "โรตอม",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "030/078",
+        "type": "G",
+        "quantity": 4
+    },
+    {
+        "id": "20b80a49-3009-4662-bc3a-9a19a78485ab",
+        "name": "โรตอม",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "SVALT",
+        "order": "008/021",
+        "type": "G",
+        "quantity": 1
+    },
+    {
+        "id": "fcdf55ff-8d14-4220-8207-4650a54cc2cd",
+        "name": "พาจิริซึ",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "029/078",
+        "type": "G",
+        "quantity": 4
+    },
+    {
+        "id": "042d8ff1-1ed0-41ec-921a-50cb1524c1bd",
+        "name": "พาโม",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "033/078",
+        "type": "G",
+        "quantity": 3
+    },
+    {
+        "id": "bc882397-1c39-473a-bc5f-6fbbad561805",
+        "name": "พาม็อต",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "035/078",
+        "type": "G",
+        "quantity": 4
+    },
+    {
+        "id": "22d369d3-91f3-41a2-b748-fb6de202e4d2",
+        "name": "คอยล์",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "026/078",
+        "type": "G",
+        "quantity": 4
+    },
+    {
+        "id": "0192399f-7234-4aff-b3c1-4a22bb20612b",
+        "name": "แรคอยล์",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "027/078",
+        "type": "G",
+        "quantity": 4
+    },
+    {
+        "id": "a34e1642-a9a5-4436-ac75-53588c6aa95d",
+        "name": "เมรีป",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "SVALT",
+        "order": "005/021",
+        "type": "G",
+        "quantity": 3
+    },
+    {
+        "id": "c26065c4-7325-45da-ab94-d1da1221103c",
+        "name": "โมโคโค",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "SVALT",
+        "order": "006/021",
+        "type": "G",
+        "quantity": 2
+    },
+    {
+        "id": "353a5447-a152-494a-acb4-e82f5de81fcf",
+        "name": "เอเลซัน",
+        "energy": "Lightning",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "031/078",
+        "type": "G",
+        "quantity": 4
+    },
+    {
+        "id": "65081514-2138-4982-b483-3855ce1641b4",
+        "name": "โดมิเรอร์",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "098/172",
+        "type": "E",
+        "quantity": 4
+    },
+    {
+        "id": "b8a140ba-9325-4196-9302-b80a3a0a8f12",
+        "name": "โดทาคุน",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "099/172",
+        "type": "E",
+        "quantity": 4
+    },
+    {
+        "id": "c84132ab-afac-4c67-b2b0-89596b69758b",
+        "name": "ฮีดราน",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S9T",
+        "order": "068/100",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "4ce2dc1d-b027-45a7-9a98-286089b60c66",
+        "name": "เทสซีด",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "076/100",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "323b330f-9a14-4495-8346-2aace81bc70c",
+        "name": "กาลาร์ เนียคิง",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S7DT",
+        "order": "035/067",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "6f25a74a-716a-4546-a74e-85cc1fe56f27",
+        "name": "ฟอเรทอส",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "SV1VT",
+        "order": "057/078",
+        "type": "G",
+        "quantity": 3
+    },
+    {
+        "id": "ca03b2ea-d80a-46f2-a62c-6194e1e0ad13",
+        "name": "โคมาทานา",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "049/068",
+        "type": "F",
+        "quantity": 13
+    },
+    {
+        "id": "1d84400f-88c5-462a-9c35-8dc461bb97aa",
+        "name": "คิริคิซัน",
+        "energy": "Darkness",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "050/068",
+        "type": "F",
+        "quantity": 5
+    },
+    {
+        "id": "cf7c06af-45ad-4233-a82a-5c2e0a4dfbb0",
+        "name": "ฮัซซัม",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "044/068",
+        "type": "F",
+        "quantity": 6
+    },
+    {
+        "id": "6156ac00-6895-4d08-ad98-d3fd2356a190",
+        "name": "โทเกะเดมารุ",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "069/098",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "c62cc77f-dbb5-41bb-a672-bc7d9a48d2be",
+        "name": "แรคอยล์",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "095/172",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "0c3a8b04-4400-4926-81cc-184341e8d7cd",
+        "name": "จิบะคอยล์",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S12aT",
+        "order": "096/172",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "748fcd2e-aaed-41cc-ad85-9b3e177135a6",
+        "name": "เกียร์",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "046/068",
+        "type": "F",
+        "quantity": 9
+    },
+    {
+        "id": "e8b26fb6-5013-4ff1-a927-d4b43eff89cf",
+        "name": "กิเกียร์",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "047/069",
+        "type": "F",
+        "quantity": 8
+    },
+    {
+        "id": "d29c86fd-21f3-44c5-b3f7-208da84b305b",
+        "name": "โคบัลออน",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "068/098",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "6ef18625-adfd-417b-aec4-83786f04574f",
+        "name": "เมลตัน",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S10bT",
+        "order": "045/071",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "bb439903-ac13-497d-89a7-329431d62552",
+        "name": "ซาเชียน",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "052/068",
+        "type": "F",
+        "quantity": 7
+    },
+    {
+        "id": "e0c5ef37-5516-412a-9e91-dd8a0d6e0c8c",
+        "name": "เมลเมทัล",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S10bT",
+        "order": "046/071",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "af82a500-2154-4f78-bf2c-935de6d8bfa0",
+        "name": "โคโคโดรา",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "065/098",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "d0d3ca68-679c-4587-8490-3d36f48f6778",
+        "name": "โคโดรา",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "066/098",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "b1e2c2e4-fae0-4bc7-990d-637ec0e48b40",
+        "name": "บอสโกโดรา",
+        "energy": "Fairy",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "067/098",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "965ae38a-992a-49ab-b7a1-af430c62ba2a",
+        "name": "เมทากรอส",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "075/100",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "053d9521-b5ca-4fe6-a3ec-c7a03a5ec780",
+        "name": "โทริเด็ปส์",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S10PT",
+        "order": "047/067",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "eab67945-8551-4682-8200-83fe789d6bef",
+        "name": "กาลาร์ เนียส",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "063/098",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "34c49108-b2e7-4599-ba82-2f65be69ea78",
+        "name": "ซามาเซนตา",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "053/068",
+        "type": "F",
+        "quantity": 5
+    },
+    {
+        "id": "7c359f70-487d-497e-a05f-389743d1d280",
+        "name": "กาลาร์ เนียคิง",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S12T",
+        "order": "064/098",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "a5ca70c5-ec02-4590-a754-41dc9be91e68",
+        "name": "ฮากาเนล",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S10bT",
+        "order": "044/071",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "9fd5b6bf-51ab-404c-8628-cf25141bab10",
+        "name": "มาเกียนา",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S10PT",
+        "order": "050/067",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "b99caeac-6206-45dd-95ca-75830c5dc5f6",
+        "name": "โคบัลออน",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S8bT",
+        "order": "114/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "58bc4f61-8e82-430e-9419-04cf532a62c8",
+        "name": "กาลาร์ มักเกียว",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "SCFT",
+        "order": "122/176",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "64535e69-c05b-4815-8641-5fbec7cbb351",
+        "name": "กาลาร์ มักเกียว",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S11T",
+        "order": "078/100",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "26da69c2-cb21-4aaa-80d3-5b2773784a58",
+        "name": "ฮิโตทซึกิ",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S5IT",
+        "order": "051/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "9f0899f5-3e3f-4fce-a01d-7c10ed633707",
+        "name": "เมลเมทัล",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S8T",
+        "order": "072/100",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "09d2871e-9c03-4e3a-b617-90da6121c4c1",
+        "name": "ทาเทท็อปส์",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S10PT",
+        "order": "046/067",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "6ee42d0b-6de0-484b-9d6f-d96559e80f77",
+        "name": "ซามาเซนตา",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "SCFT",
+        "order": "128/176",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "f2b63203-b0c6-4644-bb72-ce2f4e255681",
+        "name": "โดมิเรอร์",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "SCFT",
+        "order": "118/176",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "2556befb-1f9f-48e0-b1fb-8a7560ccb065",
+        "name": "โดมิเรอร์",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S10PT",
+        "order": "048/067",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "4c00e68b-554b-499e-818b-45ac71be5548",
+        "name": "โดมิเรอร์",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S10aT",
+        "order": "051/071",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "8650ab74-b8f4-4c4d-96be-3f12f13efd10",
+        "name": "กิกิเกียร์",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S11aT",
+        "order": "048/068",
+        "type": "F",
+        "quantity": 4
+    },
+    {
+        "id": "66779731-2d21-4aa9-98c7-36f8427faf31",
+        "name": "โดทาคุน",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S5IT",
+        "order": "050/070",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "96248d1f-d659-423f-a6fd-80398c64b8b8",
+        "name": "โดทาคุน",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S8bT",
+        "order": "113/184",
+        "type": "E",
+        "quantity": 1
+    },
+    {
+        "id": "c8452b16-295c-4b6f-8bba-44313525b631",
+        "name": "โดทาคุน",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "S10aT",
+        "order": "052/071",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "0c5154a5-fc11-4304-8055-033326aa5289",
+        "name": "โดทาคุน",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "SCFT",
+        "order": "119/176",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "ed8d0d1f-60ce-45d9-9696-950e556d0a19",
+        "name": "โคมาทานา",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "SCFT",
+        "order": "123/176",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "2c6ed154-cf03-48ce-8d2e-103187d6f825",
+        "name": "คิริคิซัน",
+        "energy": "Darkness",
+        "category": "โปเกมอน",
+        "box": "SCFT",
+        "order": "124/176",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "ffa8ba6f-b751-4287-92c8-f7c1a9ed258f",
+        "name": "ฮัซซัม",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "SCFT",
+        "order": "113/176",
+        "type": "F",
+        "quantity": 1
+    },
+    {
+        "id": "88d5d14e-a36a-45f8-9b71-5f6836b65c88",
+        "name": "ดันบัล",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "SCFT",
+        "order": "114/176",
+        "type": "F",
+        "quantity": 3
+    },
+    {
+        "id": "7fbdb121-331a-45af-a6b0-c0f9cb0661de",
+        "name": "เมแทงก์",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "SCFT",
+        "order": "115/176",
+        "type": "F",
+        "quantity": 2
+    },
+    {
+        "id": "d4091760-fb8a-462b-8509-f46172f29eff",
+        "name": "เมทากรอส",
+        "energy": "Metal",
+        "category": "โปเกมอน",
+        "box": "SCFT",
+        "order": "116/176",
+        "type": "F",
+        "quantity": 2
     }
 ]
